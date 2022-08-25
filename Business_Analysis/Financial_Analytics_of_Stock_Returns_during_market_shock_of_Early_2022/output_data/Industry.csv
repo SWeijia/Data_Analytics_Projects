@@ -1,0 +1,1950 @@
+,Ticker,Name ,RetYTD,ggroup,Industry
+0,A,Agilent Technologies ,-0.208,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1,AA,Alcoa Corp ,0.4731,1510,Materials
+2,AAL,American Airlines Gp ,0.0579,2030,Transportation
+3,AAN,Aarons Holdings Company ,-0.1327,2550,Retailing
+4,AAON,Aaon Inc ,-0.3456,2010,Capital Goods
+5,AAP,Advance Auto Parts Inc ,-0.0884,2550,Retailing
+6,AAPL,Apple Inc ,-0.0692,4520,Technology Hardware & Equipment
+7,AAT,American Assets Trust ,-0.0384,6010,Real Estate
+8,AAWW,Atlas Air Ww ,-0.2727,2030,Transportation
+9,ABBV,Abbvie Inc ,0.1987,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+10,ABC,Amerisourcebergen Corp ,0.2131,3510,Health Care Equipment & Services
+11,ABCB,Ameris Bancorp ,-0.1793,4010,Banks
+12,ABG,Asbury Automotive Group Inc ,-0.1104,2550,Retailing
+13,ABM,ABM Industries Inc ,0.2069,2020,Commercial  & Professional Services
+14,ABM,ABM Industries Inc ,0.2069,2020,Commercial  & Professional Services
+15,ABMD,Abiomed Inc ,-0.1478,3510,Health Care Equipment & Services
+16,ABR,Arbor Realty Trust ,-0.0431,4020,Diversified Financials
+17,ABT,Abbott Laboratories ,-0.1638,3510,Health Care Equipment & Services
+18,ABTX,Allegiance Banc CS ,-0.0308,4010,Banks
+19,ABUS,Arbutus Biopharma Cp ,-0.2931,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+20,ACAD,Acadia Pharmaceutica ,0.0056,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+21,ACC,American Campus Communities Inc ,0.0115,6010,Real Estate
+22,ACCO,Acco Brands Corp ,-0.0702,2020,Commercial  & Professional Services
+23,ACCO,Acco Brands Corp ,-0.0702,2020,Commercial  & Professional Services
+24,ACGL,Arch Capital Grp Ltd ,0.1019,4030,Insurance
+25,ACHC,Acadia Healthcr Company ,0.2359,3510,Health Care Equipment & Services
+26,ACIW,Aci Worldwide Inc ,-0.2078,4510,Software & Services
+27,ACLS,Axcelis Tech Inc ,-0.2432,4530,Semiconductors & Semiconductor Equipment
+28,ACM,Aecom Technology Corp ,-0.0138,2010,Capital Goods
+29,ACN,Accenture Plc ,-0.2294,4510,Software & Services
+30,ACRE,Ares Commercial Real Estate Cor ,0.121,4020,Diversified Financials
+31,ACRS,Aclaris Therapts ,0.1699,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+32,ADBE,Adobe Systems Inc ,-0.2586,4510,Software & Services
+33,ADC,Agree Realty Corp ,-0.0196,6010,Real Estate
+34,ADI,Analog Devices ,-0.1096,4530,Semiconductors & Semiconductor Equipment
+35,ADM,Archer Daniels Midland ,0.4338,3020,"Food, Beverage & Tobacco"
+36,ADNT,Adient Plc ,-0.3024,2510,Automobiles & Components
+37,ADP,Automatic Data Procs ,-0.0705,4510,Software & Services
+38,ADSK,Autodesk Inc ,-0.3004,4510,Software & Services
+39,ADTN,Adtran Inc ,-0.2199,4520,Technology Hardware & Equipment
+40,ADUS,Addus Homecare Corp ,-0.0433,3510,Health Care Equipment & Services
+41,AEE,Ameren Corp ,0.0813,5510,Utilities
+42,AEIS,Advanced Energy ,-0.1876,4520,Technology Hardware & Equipment
+43,AEL,American Equity Investment Life ,0.0057,4030,Insurance
+44,AEO,American Eagle Outfitters ,-0.3088,2550,Retailing
+45,AEP,American Electric Power Company ,0.1469,5510,Utilities
+46,AERI,Aerie Pharmaceuticals ,0.3048,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+47,AES,The Aes Corp ,0.0045,5510,Utilities
+48,AFG,American Financial Group ,0.0681,4030,Insurance
+49,AFL,Aflac Inc ,0.1189,4030,Insurance
+50,AGCO,Agco Corp ,0.2197,2010,Capital Goods
+51,AGEN,Agenus Inc ,-0.2733,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+52,AGIO,Agios Pharmaceuticals ,-0.1512,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+53,AGLE,Aeglea Biothera ,-0.5832,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+54,AGNC,Agnc Investment Corp ,-0.1702,4020,Diversified Financials
+55,AGO,Assured Guaranty Ltd ,0.2032,4030,Insurance
+56,AGR,Avangrid Inc ,-0.019,5510,Utilities
+57,AGX,Argan Inc ,-0.0439,2010,Capital Goods
+58,AGYS,Agilysys Inc ,-0.1442,4510,Software & Services
+59,AHH,Armada Hoffler Properties Inc ,-0.065,6010,Real Estate
+60,AHT,Ashford Hospitality Trust Inc ,-0.1292,6010,Real Estate
+61,AIG,American International Group ,0.1085,4030,Insurance
+62,AIMC,Altra Indtl Mtn ,-0.3091,2010,Capital Goods
+63,AIN,Albany International Corp ,-0.0757,2010,Capital Goods
+64,AIR,AAR Corp ,0.2944,2010,Capital Goods
+65,AIT,Applied Industrial Technologies ,-0.0465,2010,Capital Goods
+66,AIV,Apartment Investment and Management ,-0.1036,6010,Real Estate
+67,AIZ,Assurant Inc ,0.2146,4030,Insurance
+68,AJG,Arthur J. Gallagher & Company ,0.0645,4030,Insurance
+69,AJRD,Aerojet Rocketdyne Holdings ,-0.0768,2010,Capital Goods
+70,AKAM,Akamai Technologies ,0.0167,4510,Software & Services
+71,AKBA,Akebia Therapeutics ,-0.7611,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+72,AKR,Acadia Realty Trust ,-0.0293,6010,Real Estate
+73,AL,Air Lease Corp Cl A ,-0.0206,2010,Capital Goods
+74,ALB,Albemarle Corp ,-0.0979,1510,Materials
+75,ALBO,Albireo Pharma Inc ,0.5693,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+76,ALDX,Aldeyra Therapeu ,0.14,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+77,ALE,Allete Inc ,-0.0439,5510,Utilities
+78,ALEX,Alexander and Baldwin Inc ,-0.1032,6010,Real Estate
+79,ALG,Alamo Group ,-0.0704,2010,Capital Goods
+80,ALGN,Align Technology ,-0.3764,3510,Health Care Equipment & Services
+81,ALGT,Allegiant Travel Com ,-0.1513,2030,Transportation
+82,ALK,Alaska Air Group ,0.0962,2030,Transportation
+83,ALKS,Alkermes Plc ,0.2623,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+84,ALL,Allstate Corp ,0.1998,4030,Insurance
+85,ALLE,Allegion Plc ,-0.1888,2010,Capital Goods
+86,ALLY,Ally Financial ,-0.1342,4020,Diversified Financials
+87,ALNY,Alnylam Pharmaceuticals ,-0.0132,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+88,ALRM,Alarm.com ,-0.3027,4510,Software & Services
+89,ALSN,Allison Transmission Holdings ,-0.0327,2010,Capital Goods
+90,ALX,Alexander's Inc ,0.0065,6010,Real Estate
+91,AMAT,Applied Materials ,-0.2796,4530,Semiconductors & Semiconductor Equipment
+92,AMBA,Ambarella Inc ,-0.5551,4530,Semiconductors & Semiconductor Equipment
+93,AMBC,Ambac Financial Group ,-0.448,4030,Insurance
+94,AMC,AMC Entertainment Holdings Inc ,-0.3375,5020,
+95,AMCX,AMC Networks Cl A ,0.1048,5020,
+96,AMD,Adv Micro Devices ,-0.3533,4530,Semiconductors & Semiconductor Equipment
+97,AME,Ametek Inc ,-0.1359,2010,Capital Goods
+98,AMED,Amedisys Inc ,-0.0504,3510,Health Care Equipment & Services
+99,AMG,Affiliated Managers Group ,-0.2082,4020,Diversified Financials
+100,AMGN,Amgen Inc ,0.1291,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+101,AMH,American Homes 4 Rent ,-0.0472,6010,Real Estate
+102,AMKR,Amkor Technology ,-0.2408,4530,Semiconductors & Semiconductor Equipment
+103,AMN,Amn Healthcare Services Inc ,-0.1498,3510,Health Care Equipment & Services
+104,AMNB,American Natl Bksh ,-0.039,4010,Banks
+105,AMOT,Allied Motion Tech ,-0.2491,2010,Capital Goods
+106,AMP,Ameriprise Financial Services ,-0.0362,4020,Diversified Financials
+107,AMPE,Ampio Pharmaceuticals ,-0.2982,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+108,AMPH,Amphastar Pharma ,0.7836,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+109,AMRC,Ameresco Inc ,-0.2991,2010,Capital Goods
+110,AMRK,A-Mark Precious Meta ,0.375,4020,Diversified Financials
+111,AMRS,Amyris Inc ,-0.1627,1510,Materials
+112,AMSC,Amer Superconductor ,-0.3695,2010,Capital Goods
+113,AMSF,Amerisafe Inc ,-0.1356,4030,Insurance
+114,AMSWA,Amer Software Inc ,-0.2831,4510,Software & Services
+115,AMT,American Tower Corp ,-0.1264,6010,Real Estate
+116,AMTX,Aemetis Inc ,0.0707,1010,Energy
+117,AMWD,Amer Woodmark Cp ,-0.2903,2010,Capital Goods
+118,AMZN,Amazon.com Inc ,-0.09,2550,Retailing
+119,AN,Autonation Inc ,-0.1317,2550,Retailing
+120,ANAB,Anaptysbio Inc ,-0.3422,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+121,ANAT,Amer Natl Insurance ,0.0017,4030,Insurance
+122,ANDE,Andersons Inc ,0.5084,3010,Food & Staples Retailing
+123,ANET,Arista Networks Inc ,-0.1194,4520,Technology Hardware & Equipment
+124,ANF,Abercrombie & Fitch Company ,-0.0098,2550,Retailing
+125,ANGO,Angiodynamics Inc ,-0.169,3510,Health Care Equipment & Services
+126,ANIK,Anika Therapeutics ,-0.3528,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+127,ANIP,ANI Pharma Inc ,-0.3021,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+128,ANSS,Ansys Inc ,-0.2961,4510,Software & Services
+129,ANTM,Anthem Inc ,0.1147,3510,Health Care Equipment & Services
+130,AON,AON Plc ,0.0922,4030,Insurance
+131,AOS,Smith A.O. Corp ,-0.257,2010,Capital Goods
+132,AOSL,Alpha and Omega Semi ,-0.2588,4530,Semiconductors & Semiconductor Equipment
+133,APA,Apa Corp ,0.6244,1010,Energy
+134,APAM,Artisan Partners Asset Mgmt ,-0.217,4020,Diversified Financials
+135,APD,Air Products and Chemicals ,-0.1887,1510,Materials
+136,APEI,American Public Education ,-0.0157,2530,Consumer Services
+137,APH,Amphenol Corp ,-0.1953,4520,Technology Hardware & Equipment
+138,APLE,Apple Hospitality REIT Inc ,0.0941,6010,Real Estate
+139,APO,Apollo Asset Management Inc ,-0.2063,4020,Diversified Financials
+140,APOG,Apogee Entrpr Inc ,-0.0442,2010,Capital Goods
+141,APPF,Appfolio Cl A ,-0.0667,4510,Software & Services
+142,APPS,Digital Turbine ,-0.3937,4510,Software & Services
+143,APTS,Preferred Apartment Communities ,0.3782,6010,Real Estate
+144,AR,Antero Resources Corp ,1.016,1010,Energy
+145,ARAY,Accuray Inc ,-0.3145,3510,Health Care Equipment & Services
+146,ARCB,Arcbest Corp ,-0.4229,2030,Transportation
+147,ARCH,Arch Resources Inc ,0.8231,1010,Energy
+148,ARDX,Ardelyx Inc ,-0.1909,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+149,ARE,Alexandria Real Estate Equities ,-0.1201,6010,Real Estate
+150,ARES,Ares Management LP ,-0.0488,4020,Diversified Financials
+151,ARI,Apollo Commercial Real Estate ,0.0616,4020,Diversified Financials
+152,ARMK,Aramark Holdings Corp ,0.0046,2530,Consumer Services
+153,ARNC,Arconic Corp ,-0.1845,1510,Materials
+154,AROC,Archrock Inc ,0.2888,1010,Energy
+155,AROW,Arrow Financial Corp ,-0.1079,4010,Banks
+156,ARR,Armour Residential R ,-0.1886,4020,Diversified Financials
+157,ARTNA,Artesian Res Cp A ,0.0004,5510,Utilities
+158,ARW,Arrow Electronics ,-0.1877,4520,Technology Hardware & Equipment
+159,ARWR,Arrowhead Pharma ,-0.2931,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+160,ASB,Associated Banc-Corp ,-0.0483,4010,Banks
+161,ASGN,On Assignment ,-0.0622,2020,Commercial  & Professional Services
+162,ASGN,On Assignment ,-0.0622,2020,Commercial  & Professional Services
+163,ASH,Ashland Global Holdings Inc ,-0.0134,1510,Materials
+164,ASIX,Advansix Inc ,0.0711,1510,Materials
+165,ASPN,Aspen Aerogels Inc ,-0.4694,1510,Materials
+166,ASTE,Astec Inds Inc ,-0.4266,2010,Capital Goods
+167,ATEC,Alphatec Holdings ,0.0595,3510,Health Care Equipment & Services
+168,ATEN,A10 Networks Inc ,-0.2171,4510,Software & Services
+169,ATHX,Athersys Inc ,-0.4148,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+170,ATI,Allegheny Technologies Inc ,0.904,1510,Materials
+171,ATKR,Atkore Inc ,-0.175,2010,Capital Goods
+172,ATLC,Atlanticus Holdings Cp ,-0.3819,4020,Diversified Financials
+173,ATNI,Atn International ,0.022,5010,Telecommunication Services
+174,ATO,Atmos Energy Corp ,0.1429,5510,Utilities
+175,ATOM,Atomera Inc ,-0.4369,4530,Semiconductors & Semiconductor Equipment
+176,ATOS,Atossa Therapeutics Inc ,-0.3063,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+177,ATR,Aptargroup ,-0.0415,1510,Materials
+178,ATRA,Atara Biotherap ,-0.4918,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+179,ATRC,Atricure Inc ,-0.1795,3510,Health Care Equipment & Services
+180,ATRI,Atrion Corp ,0.0397,3510,Health Care Equipment & Services
+181,ATRO,Astronics Cp ,-0.0025,2010,Capital Goods
+182,ATRS,Antares Pharma ,0.5574,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+183,ATSG,Air Transport ,0.0688,2030,Transportation
+184,ATVI,Activision Blizzard ,0.1864,5020,
+185,AVA,Avista Corp ,0.0487,5510,Utilities
+186,AVAV,Aerovironment Inc ,0.7601,2010,Capital Goods
+187,AVB,Avalonbay Communities ,-0.0237,6010,Real Estate
+188,AVD,American Vanguard Corp ,0.3636,1510,Materials
+189,AVGO,Broadcom Ltd ,-0.1376,4530,Semiconductors & Semiconductor Equipment
+190,AVID,Avid Tech Inc ,0.113,4520,Technology Hardware & Equipment
+191,AVNW,Aviat Networks Inc ,0.0617,4520,Technology Hardware & Equipment
+192,AVT,Avnet Inc ,-0.0994,4520,Technology Hardware & Equipment
+193,AVXL,Anavex Lf SC ,-0.3599,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+194,AVY,Avery Dennison Corp ,-0.2312,1510,Materials
+195,AWI,Armstrong World Industries Inc ,-0.206,2010,Capital Goods
+196,AWK,American Water Works ,-0.1202,5510,Utilities
+197,AWR,American States Water Company ,-0.1749,5510,Utilities
+198,AXGN,Axogen Inc ,-0.2263,3510,Health Care Equipment & Services
+199,AXL,American Axle & Manufacturing ,-0.2647,2510,Automobiles & Components
+200,AXP,American Express Company ,0.1073,4020,Diversified Financials
+201,AXS,Axis Capital Holdings ,0.0386,4030,Insurance
+202,AXSM,Axsome Thera ,-0.0244,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+203,AXTA,Axalta Coating Systems Ltd ,-0.2412,1510,Materials
+204,AXTI,Axt Inc ,-0.2804,4530,Semiconductors & Semiconductor Equipment
+205,AYI,Acuity Brands Inc ,-0.1933,2010,Capital Goods
+206,AZO,Autozone ,0.0325,2550,Retailing
+207,AZPN,Aspen Technology ,0.0641,4510,Software & Services
+208,AZZ,Azz Inc ,-0.1637,2010,Capital Goods
+209,B,Barnes Group ,-0.2286,2010,Capital Goods
+210,BA,Boeing Company ,-0.0963,2010,Capital Goods
+211,BAC,Bank of America Corp ,-0.1555,4010,Banks
+212,BAH,Booz Allen Hamilton Holding Corp ,0.0353,2020,Commercial  & Professional Services
+213,BAH,Booz Allen Hamilton Holding Corp ,0.0353,2020,Commercial  & Professional Services
+214,BANC,First Pactrust Bancorp ,-0.078,4010,Banks
+215,BANF,Bancfirst Corp ,0.1786,4010,Banks
+216,BANR,Banner Corp ,-0.0892,4010,Banks
+217,BAX,Baxter International Inc ,-0.1095,3510,Health Care Equipment & Services
+218,BBBY,Bed Bath & Beyond ,0.1886,2550,Retailing
+219,BBSI,Barrett Business S ,0.0639,2020,Commercial  & Professional Services
+220,BBSI,Barrett Business S ,0.0639,2020,Commercial  & Professional Services
+221,BBY,Best Buy Company ,-0.0764,2550,Retailing
+222,BC,Brunswick Corp ,-0.2484,2520,Consumer Durables & Apparel
+223,BCC,Boise Cascade L.L.C. ,-0.0001,2010,Capital Goods
+224,BCO,Brink's Company ,0.004,2020,Commercial  & Professional Services
+225,BCO,Brink's Company ,0.004,2020,Commercial  & Professional Services
+226,BCOR,Blucora Inc ,0.1582,4020,Diversified Financials
+227,BCOV,Brightcove Inc ,-0.271,4510,Software & Services
+228,BCPC,Balchem Cp ,-0.2087,1510,Materials
+229,BCRX,Biocryst Pharma Inc ,-0.1776,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+230,BDC,Belden Inc ,-0.2536,4520,Technology Hardware & Equipment
+231,BDN,Brandywine Realty Trust ,-0.0514,6010,Real Estate
+232,BDX,Becton Dickinson and Company ,0.0803,3510,Health Care Equipment & Services
+233,BECN,Beacon Roofing Suppl ,0.0207,2010,Capital Goods
+234,BEN,Franklin Resources ,-0.2365,4020,Diversified Financials
+235,BERY,Berry Global Group ,-0.2276,1510,Materials
+236,BFAM,Bright Horizons Family Solutions Inc ,0.0518,2530,Consumer Services
+237,BFS,Saul Centers ,0.0228,6010,Real Estate
+238,BG,Bunge Ltd ,0.3278,3020,"Food, Beverage & Tobacco"
+239,BGCP,Bgc Partners Cl A ,-0.1634,4020,Diversified Financials
+240,BGFV,Big 5 Sporting ,-0.1362,2550,Retailing
+241,BGS,B&G Foods Holdings ,-0.1015,3020,"Food, Beverage & Tobacco"
+242,BHB,Bar Harbor Bankshares ,-0.0353,4010,Banks
+243,BHE,Benchmark Electronics ,-0.1373,4520,Technology Hardware & Equipment
+244,BHLB,Berkshire Hills Bancorp ,-0.0169,4010,Banks
+245,BIG,Big Lots ,-0.1798,2550,Retailing
+246,BIIB,Biogen Inc ,-0.1141,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+247,BJRI,Bj's Restaurants Inc ,-0.2026,2530,Consumer Services
+248,BK,Bank of New York Mellon Corp ,-0.1858,4020,Diversified Financials
+249,BKD,Brookdale Senior Living Inc ,0.4496,3510,Health Care Equipment & Services
+250,BKE,Buckle Inc ,-0.2319,2550,Retailing
+251,BKH,Black Hills Corp ,0.1145,5510,Utilities
+252,BKU,BankUnited Inc ,-0.0026,4010,Banks
+253,BL,Blackline Inc ,-0.3279,4510,Software & Services
+254,BLBD,Blue Bird Corp ,0.1445,2010,Capital Goods
+255,BLD,Topbuild Corp ,-0.3808,2520,Consumer Durables & Apparel
+256,BLDR,Builders Firstsource ,-0.2864,2010,Capital Goods
+257,BLFS,Biolife Solutions ,-0.5455,3510,Health Care Equipment & Services
+258,BLK,Blackrock Inc ,-0.2484,4020,Diversified Financials
+259,BLKB,Blackbaud Inc ,-0.2794,4510,Software & Services
+260,BLL,Ball Corp ,-0.0947,1510,Materials
+261,BLMN,Bloomin' Brands Inc ,0.0219,2530,Consumer Services
+262,BLUE,Bluebird Bio ,-0.5455,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+263,BLX,Banco Latinoamericano DE Comercio ,-0.0934,4020,Diversified Financials
+264,BMI,Badger Meter ,-0.1197,4520,Technology Hardware & Equipment
+265,BMRC,Bank of Marin Bancrp ,-0.1399,4010,Banks
+266,BMRN,Biomarin Pharmaceuticals ,-0.0611,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+267,BMY,Bristol-Myers Squibb Company ,0.2431,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+268,BNED,Barnes & Noble Education Inc C ,-0.4684,2550,Retailing
+269,BNFT,Benefitfocus ,0.1473,4510,Software & Services
+270,BOH,Bank of Hawaii Corp ,-0.0606,4010,Banks
+271,BOKF,Bok Financial Corp ,-0.1601,4010,Banks
+272,BOOM,Dynamic Materials ,-0.284,1010,Energy
+273,BOOT,Boot Barn Holdings Inc ,-0.2319,2550,Retailing
+274,BOX,Box Inc ,0.1768,4510,Software & Services
+275,BPMC,Blueprint Medicines Corp ,-0.365,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+276,BPOP,Popular Inc ,-0.015,4010,Banks
+277,BR,Broadridge Financial Solutions Llc ,-0.1603,4510,Software & Services
+278,BRC,Brady Corp ,-0.1666,2020,Commercial  & Professional Services
+279,BRC,Brady Corp ,-0.1666,2020,Commercial  & Professional Services
+280,BRKL,Brookline Bancorp ,-0.0877,4010,Banks
+281,BRKR,Bruker Corp ,-0.2594,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+282,BRO,Brown & Brown ,0.0139,4030,Insurance
+283,BRX,Brixmor Property Group Inc ,0.0236,6010,Real Estate
+284,BSRR,Sierra Bancorp ,-0.1267,4010,Banks
+285,BSX,Boston Scientific Corp ,0.0417,3510,Health Care Equipment & Services
+286,BURL,Burlington Stores Inc ,-0.2664,2550,Retailing
+287,BUSE,First Busey Corp ,-0.1114,4010,Banks
+288,BW,Babcock & Wilcox Enterprises ,-0.143,2010,Capital Goods
+289,BWA,Borgwarner Inc ,-0.1788,2510,Automobiles & Components
+290,BWXT,Bwx Technologies Inc ,0.166,2010,Capital Goods
+291,BX,Blackstone Inc ,-0.1268,4020,Diversified Financials
+292,BXC,Bluelinx Holdings Inc ,-0.3368,2010,Capital Goods
+293,BXMT,Blackstone Mortgage Trust Inc Cl A ,0.0431,4020,Diversified Financials
+294,BXP,Boston Properties ,0.0817,6010,Real Estate
+295,BYD,Boyd Gaming Corp ,-0.0499,2530,Consumer Services
+296,BZH,Beazer Homes USA ,-0.3575,2520,Consumer Durables & Apparel
+297,C,Citigroup Inc ,-0.1566,4010,Banks
+298,CABO,Cable One Inc ,-0.1902,5020,
+299,CAC,Camden Natl Cp ,-0.0237,4010,Banks
+300,CACC,Credit Acceptance ,-0.148,4020,Diversified Financials
+301,CACI,Caci International ,0.0933,2020,Commercial  & Professional Services
+302,CACI,Caci International ,0.0933,2020,Commercial  & Professional Services
+303,CAG,Conagra Brands Inc ,0.043,3020,"Food, Beverage & Tobacco"
+304,CAH,Cardinal Health ,0.2228,3510,Health Care Equipment & Services
+305,CAKE,Cheesecake Fact ,-0.0608,2530,Consumer Services
+306,CAL,Caleres Inc ,-0.0542,2550,Retailing
+307,CALM,Cal-Maine Foods IN ,0.4696,3020,"Food, Beverage & Tobacco"
+308,CALX,Calix Inc ,-0.5163,4520,Technology Hardware & Equipment
+309,CAMP,Calamp Corp ,-0.1374,4520,Technology Hardware & Equipment
+310,CAR,Avis Budget Group ,0.2799,2030,Transportation
+311,CARA,Cara Therapeutics ,0.1363,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+312,CASH,Meta Financial Group ,-0.1924,4010,Banks
+313,CASS,Cass Information Sys ,0.016,4510,Software & Services
+314,CASY,Casey's General Stor ,0.0602,3010,Food & Staples Retailing
+315,CAT,Caterpillar Inc ,0.1019,2010,Capital Goods
+316,CATO,Cato Corp ,-0.1562,2550,Retailing
+317,CATY,Cathay Genl Bncp ,-0.0172,4010,Banks
+318,CB,Chubb Ltd ,0.089,4030,Insurance
+319,CBAY,Cymabay Therapeutics ,-0.0828,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+320,CBOE,CBOE Global Markets Inc ,-0.1002,4020,Diversified Financials
+321,CBRL,Cracker Barrel ,-0.0789,2530,Consumer Services
+322,CBSH,Commerce Bancshares ,0.0233,4010,Banks
+323,CBT,Cabot Corp ,0.1941,1510,Materials
+324,CBU,Community Bank System ,-0.0887,4010,Banks
+325,CBZ,Cbiz Inc ,0.0644,2020,Commercial  & Professional Services
+326,CBZ,Cbiz Inc ,0.0644,2020,Commercial  & Professional Services
+327,CC,Chemours Company ,0.0072,1510,Materials
+328,CCBG,Capital City Bank Gr ,-0.053,4010,Banks
+329,CCF,Chase Corp ,-0.1233,1510,Materials
+330,CCI,Crown Castle International Corp ,-0.0769,6010,Real Estate
+331,CCK,Crown Cork & Seal Company ,0.0751,1510,Materials
+332,CCL,Carnival Corp ,-0.0278,2530,Consumer Services
+333,CCMP,Cabot Microelectron ,-0.0808,4530,Semiconductors & Semiconductor Equipment
+334,CCNE,Cnb Financial Corp ,-0.0566,4010,Banks
+335,CCO,Clear Channel Outdoor Holdings ,-0.0332,5020,
+336,CCOI,Cogent Comm Hlds ,-0.0931,5010,Telecommunication Services
+337,CCRN,Cross Ctry Hlthcr ,-0.2795,3510,Health Care Equipment & Services
+338,CCS,Century Communities Inc ,-0.3785,2520,Consumer Durables & Apparel
+339,CCXI,Chemocentryx Inc ,-0.4084,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+340,CDE,Coeur Mining Inc ,0.0456,1510,Materials
+341,CDEV,Centennial Resource Development Inc ,0.5719,1010,Energy
+342,CDK,Cdk Global Inc ,0.3043,4510,Software & Services
+343,CDNA,Caredx Inc ,-0.2214,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+344,CDNS,Cadence Design Sys ,-0.1961,4510,Software & Services
+345,CDW,CDW Corp ,-0.1553,4520,Technology Hardware & Equipment
+346,CDXC,Chromadex Corp CS ,-0.4278,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+347,CDXS,Codexis Inc ,-0.4119,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+348,CE,Celanese Corp ,-0.1362,1510,Materials
+349,CENTA,Central Garden & Pet ,-0.1122,3030,Household & Personal Products
+350,CENX,Century Aluminum C ,0.6552,1510,Materials
+351,CERN,Cerner Corp ,0.0046,3510,Health Care Equipment & Services
+352,CERS,Cerus Corp ,-0.2907,3510,Health Care Equipment & Services
+353,CEVA,Ceva Inc ,-0.1931,4530,Semiconductors & Semiconductor Equipment
+354,CF,Cf Industries Holdings ,0.5316,1510,Materials
+355,CFFN,Capitol Fed Finl Inc ,-0.0891,4010,Banks
+356,CFG,Citizens Financial Group Inc/Ri ,-0.135,4010,Banks
+357,CFR,Cullen/Frost Bankers ,0.1068,4010,Banks
+358,CG,The Carlyle Group ,-0.2219,4020,Diversified Financials
+359,CGNX,Cognex Cp ,-0.097,4520,Technology Hardware & Equipment
+360,CHCO,City Holding Company ,-0.067,4010,Banks
+361,CHCT,Community Healthcare Trust Inc ,-0.1206,6010,Real Estate
+362,CHD,Church & Dwight Company ,0.0015,3030,Household & Personal Products
+363,CHDN,Churchill Downs IN ,-0.1254,2530,Consumer Services
+364,CHE,Chemed Inc ,-0.0575,3510,Health Care Equipment & Services
+365,CHEF,The Chefs Warehouse ,-0.0045,3010,Food & Staples Retailing
+366,CHGG,Chegg Inc ,0.0541,2530,Consumer Services
+367,CHH,Choice Hotels International ,-0.0892,2530,Consumer Services
+368,CHRS,Coherus Bio ,-0.2957,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+369,CHRW,C.H. Robinson Ww ,-0.0404,2030,Transportation
+370,CHS,Chico's Fas ,-0.0409,2550,Retailing
+371,CHTR,Charter Communicatio ,-0.1482,5020,
+372,CHUY,Chuy's Holdings Inc ,-0.1388,2530,Consumer Services
+373,CI,Cigna Corp ,0.1288,3510,Health Care Equipment & Services
+374,CIEN,Ciena Corp ,-0.2745,4520,Technology Hardware & Equipment
+375,CIM,Chimera Investment Corp ,-0.2772,4020,Diversified Financials
+376,CINF,Cincinnati Financial ,0.2129,4030,Insurance
+377,CIO,City Office REIT Inc ,-0.1805,6010,Real Estate
+378,CIVB,Civista Bncshrs ,-0.0725,4010,Banks
+379,CL,Colgate-Palmolive Company ,-0.0516,3030,Household & Personal Products
+380,CLDT,Chatham Lodging Trust REIT ,0.0015,6010,Real Estate
+381,CLDX,Celldex Therapeutics ,-0.0725,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+382,CLF,Cleveland-Cliffs Inc ,0.4166,1510,Materials
+383,CLFD,Clearfield Inc ,-0.3009,4520,Technology Hardware & Equipment
+384,CLH,Clean Harbors ,0.0811,2020,Commercial  & Professional Services
+385,CLH,Clean Harbors ,0.0811,2020,Commercial  & Professional Services
+386,CLNE,Clean Energy Fuels ,0.1778,1010,Energy
+387,CLR,Continental Resources ,0.4609,1010,Energy
+388,CLVS,Clovis Oncology Inc ,-0.1587,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+389,CLW,Clearwater Paper Corp ,-0.2588,1510,Materials
+390,CLX,Clorox Company ,-0.1651,3030,Household & Personal Products
+391,CMA,Comerica Inc ,0.0157,4010,Banks
+392,CMC,Commercial Metals Company ,0.2213,1510,Materials
+393,CMCO,Columbus Mckinnon ,-0.1801,2010,Capital Goods
+394,CMCSA,Comcast Corp A ,-0.0546,5020,
+395,CME,CME Group Inc ,0.0403,4020,Diversified Financials
+396,CMG,Chipotle Mexican Grill ,-0.083,2530,Consumer Services
+397,CMI,Cummins Inc ,-0.1018,2010,Capital Goods
+398,CMP,Compass Minerals Intl Inc ,0.2831,1510,Materials
+399,CMPR,Cimpress N.V. Ord ,-0.1557,2020,Commercial  & Professional Services
+400,CMPR,Cimpress N.V. Ord ,-0.1557,2020,Commercial  & Professional Services
+401,CMRE,Costamare Inc ,0.2577,2030,Transportation
+402,CMRX,Chimerix Inc ,-0.2551,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+403,CMS,Cms Energy Corp ,0.0999,5510,Utilities
+404,CMTL,Comtech Telecom Company ,-0.3862,4520,Technology Hardware & Equipment
+405,CNA,CNA Financial Corp ,0.1055,4030,Insurance
+406,CNC,Centene Corp ,0.0502,3510,Health Care Equipment & Services
+407,CNDT,Conduent Inc ,0.0487,4510,Software & Services
+408,CNK,Cinemark Holdings Inc ,0.0558,5020,
+409,CNMD,C O N M E D Cp ,0.0167,3510,Health Care Equipment & Services
+410,CNO,Cno Financial Group ,0.0642,4030,Insurance
+411,CNOB,Connectone Bancorp ,-0.0599,4010,Banks
+412,CNP,Centerpoint Energy Inc ,0.1609,5510,Utilities
+413,CNS,Cohn & Steers Inc ,-0.1078,4020,Diversified Financials
+414,CNSL,Consolidated Communications Holdings Inc ,-0.1484,5010,Telecommunication Services
+415,CNTY,Century Casinos IN ,-0.0739,2530,Consumer Services
+416,CNX,CNX Resources Corp ,0.6305,1010,Energy
+417,CNXN,PC Connection Inc ,0.2219,4520,Technology Hardware & Equipment
+418,COF,Capital One Financial Corp ,-0.0862,4020,Diversified Financials
+419,COHR,Coherent Inc ,-0.0032,4520,Technology Hardware & Equipment
+420,COHU,Cohu Inc ,-0.3313,4530,Semiconductors & Semiconductor Equipment
+421,COKE,Coca Cola Bot Cons ,-0.2043,3020,"Food, Beverage & Tobacco"
+422,COLB,Columbia Banking Sys ,-0.0776,4010,Banks
+423,COLL,Collegium Pharma ,0.0268,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+424,COLM,Columbia Sprtswr ,-0.0935,2520,Consumer Durables & Apparel
+425,COMM,Commscope Holding Company ,-0.4149,4520,Technology Hardware & Equipment
+426,CONN,Conn's Inc ,-0.3172,2550,Retailing
+427,COO,Cooper Companies ,-0.0461,3510,Health Care Equipment & Services
+428,COP,Conocophillips ,0.4044,1010,Energy
+429,CORT,Corcept Therapeutics ,0.2369,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+430,COST,Costco Wholesale ,0.04,3010,Food & Staples Retailing
+431,COTY,Coty Inc ,-0.1848,3030,Household & Personal Products
+432,COUP,Coupa Software Inc ,-0.3679,4510,Software & Services
+433,COWN,Cowen Group Inc ,-0.3684,4020,Diversified Financials
+434,CPA,Copa Holdings S.A. ,-0.0403,2030,Transportation
+435,CPB,Campbell Soup Company ,0.063,3020,"Food, Beverage & Tobacco"
+436,CPE,Callon Petroleum Company ,0.2946,1010,Energy
+437,CPF,Central Pacific Financial Company ,-0.0564,4010,Banks
+438,CPK,Chesapeake Utilities Corp ,-0.0634,5510,Utilities
+439,CPRT,Copart Inc ,-0.2285,2020,Commercial  & Professional Services
+440,CPRT,Copart Inc ,-0.2285,2020,Commercial  & Professional Services
+441,CPRX,Catalyst Pharm Inc ,0.2422,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+442,CPS,Cooper Std Holdings Inc ,-0.6859,2510,Automobiles & Components
+443,CPSI,Computer Programs ,0.1529,3510,Health Care Equipment & Services
+444,CPT,Camden Property Trust ,-0.0787,6010,Real Estate
+445,CR,Crane Company ,0.0388,2010,Capital Goods
+446,CRAI,Cra International ,-0.0895,2020,Commercial  & Professional Services
+447,CRAI,Cra International ,-0.0895,2020,Commercial  & Professional Services
+448,CRI,Carter's Inc ,-0.1138,2520,Consumer Durables & Apparel
+449,CRIS,Curis Inc ,-0.7248,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+450,CRK,Comstock Resources ,1.063,1010,Energy
+451,CRL,Charles River Laboratories Intl ,-0.2446,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+452,CRM,Salesforce Inc ,-0.2547,4510,Software & Services
+453,CRMT,America's Car-Mart ,-0.192,2550,Retailing
+454,CROX,Crocs Inc ,-0.436,2520,Consumer Durables & Apparel
+455,CRS,Carpenter Technology Corp ,0.4546,1510,Materials
+456,CRUS,Cirrus Logic Inc ,-0.1803,4530,Semiconductors & Semiconductor Equipment
+457,CRVL,Corvel Cp ,-0.1403,3510,Health Care Equipment & Services
+458,CSCO,Cisco Systems Inc ,-0.1925,4520,Technology Hardware & Equipment
+459,CSGP,Costar Group Inc ,-0.2178,2020,Commercial  & Professional Services
+460,CSGP,Costar Group Inc ,-0.2178,2020,Commercial  & Professional Services
+461,CSGS,C S G Sys Intl ,0.1177,4510,Software & Services
+462,CSII,Cardiovascular Syst ,0.1464,3510,Health Care Equipment & Services
+463,CSL,Carlisle Companies Inc ,-0.0154,2010,Capital Goods
+464,CSTM,Constellium N.V. ,-0.0374,1510,Materials
+465,CSTR,Capstar Financial Holdings Inc ,-0.0323,4010,Banks
+466,CSV,Carriage Services ,-0.1949,2530,Consumer Services
+467,CSWI,Csw Industrials Inc ,-0.0923,2010,Capital Goods
+468,CSX,CSX Corp ,-0.0676,2030,Transportation
+469,CTAS,Cintas Corp ,-0.0666,2020,Commercial  & Professional Services
+470,CTAS,Cintas Corp ,-0.0666,2020,Commercial  & Professional Services
+471,CTBI,Community TR Bancp ,-0.0837,4010,Banks
+472,CTLT,Catalent Inc ,-0.2399,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+473,CTMX,Cytomx Thera ,-0.4665,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+474,CTO,Cto Realty Growth Inc ,0.0612,6010,Real Estate
+475,CTRE,Caretrust REIT Inc ,-0.2326,6010,Real Estate
+476,CTRN,Citi Trends Inc ,-0.6622,2550,Retailing
+477,CTS,Cts Corp ,-0.0659,4520,Technology Hardware & Equipment
+478,CTSH,Cognizant Tech Sol ,-0.0449,4510,Software & Services
+479,CTSO,Cytosorbents Cor ,-0.315,3510,Health Care Equipment & Services
+480,CTT,Catchmark Timber Trust Inc ,-0.0344,6010,Real Estate
+481,CTXS,Citrix Systems Inc ,0.0809,4510,Software & Services
+482,CUBE,Cubesmart ,-0.0568,6010,Real Estate
+483,CUBI,Customers Bancorp ,-0.3257,4010,Banks
+484,CUTR,Cutera Inc ,0.5603,3510,Health Care Equipment & Services
+485,CUZ,Cousins Properties Inc ,-0.0425,6010,Real Estate
+486,CVBF,Cvb Financial Corp ,0.0635,4010,Banks
+487,CVCO,Cavco Inds Inc ,-0.2572,2520,Consumer Durables & Apparel
+488,CVGW,Calavo Growers Inc ,-0.0927,3020,"Food, Beverage & Tobacco"
+489,CVI,Cvr Energy Inc ,0.577,1010,Energy
+490,CVLT,Commvault Systems ,-0.0705,4510,Software & Services
+491,CVM,Cel-Sci Corp ,-0.5352,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+492,CVS,CVS Corp ,0.005,3510,Health Care Equipment & Services
+493,CVX,Chevron Corp ,0.4622,1010,Energy
+494,CW,Curtiss-Wright Corp ,0.0912,2010,Capital Goods
+495,CWH,Camping World Holdings Inc ,-0.3364,2550,Retailing
+496,CWST,Casella Waste Sys ,0.0292,2020,Commercial  & Professional Services
+497,CWST,Casella Waste Sys ,0.0292,2020,Commercial  & Professional Services
+498,CWT,California Water Service Group Holding ,-0.2246,5510,Utilities
+499,CXW,Corecivic Inc ,0.349,2020,Commercial  & Professional Services
+500,CXW,Corecivic Inc ,0.349,2020,Commercial  & Professional Services
+501,CYH,Community Health Systems ,-0.139,3510,Health Care Equipment & Services
+502,CYRX,Cryoport Inc ,-0.4984,3510,Health Care Equipment & Services
+503,CYTK,Cytokinetics ,-0.1321,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+504,CZNC,Citizens Nrthn Cp ,-0.0636,4010,Banks
+505,D,Dominion Resources ,0.1125,5510,Utilities
+506,DAL,Delta Air Lines Inc ,0.0839,2030,Transportation
+507,DAN,Dana Inc ,-0.3168,2510,Automobiles & Components
+508,DAR,Darling International Inc ,0.1599,3020,"Food, Beverage & Tobacco"
+509,DBD,Diebold Nixdorf Inc ,-0.3989,4520,Technology Hardware & Equipment
+510,DCI,Donaldson Company ,-0.1487,2010,Capital Goods
+511,DCO,Ducommun Inc ,0.1849,2010,Capital Goods
+512,DDD,3D Systems Corp ,-0.3315,4520,Technology Hardware & Equipment
+513,DDS,Dillard's ,0.2117,2550,Retailing
+514,DE,Deere & Company ,0.2737,2010,Capital Goods
+515,DEA,Easterly Government Properties ,-0.1222,6010,Real Estate
+516,DECK,Deckers Outdoor Corp ,-0.2595,2520,Consumer Durables & Apparel
+517,DEI,Douglas Emmett ,-0.0743,6010,Real Estate
+518,DENN,Dennys Corp ,-0.17,2530,Consumer Services
+519,DFIN,Donnelly Financial Solutions Inc ,-0.3532,4020,Diversified Financials
+520,DFS,Discover Financial Services ,-0.0292,4020,Diversified Financials
+521,DG,Dollar General Corp ,0.0549,2550,Retailing
+522,DGII,Digi Intl Inc ,-0.1807,4520,Technology Hardware & Equipment
+523,DGX,Quest Diagnostics Inc ,-0.2144,3510,Health Care Equipment & Services
+524,DHI,D.R. Horton ,-0.3314,2520,Consumer Durables & Apparel
+525,DHIL,Diamond Hill Inv ,-0.0732,4020,Diversified Financials
+526,DHR,Danaher Corp ,-0.1581,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+527,DHT,Dht Holdings ,0.2158,1010,Energy
+528,DIN,Dineequity Inc ,-0.0272,2530,Consumer Services
+529,DIOD,Diodes Inc ,-0.3615,4530,Semiconductors & Semiconductor Equipment
+530,DIS,Walt Disney Company ,-0.1577,5020,
+531,DISH,Dish Network Corp ,0.0231,5020,
+532,DJCO,Daily Journal Cp ,-0.2078,5020,
+533,DK,Delek US Holdings ,0.567,1010,Energy
+534,DKS,Dick's Sporting Goods Inc ,-0.0855,2550,Retailing
+535,DLB,Dolby Laboratories ,-0.1826,4510,Software & Services
+536,DLR,Digital Realty Trust ,-0.1801,6010,Real Estate
+537,DLTR,Dollar Tree Inc ,0.2315,2550,Retailing
+538,DLX,Deluxe Corp ,-0.0794,2020,Commercial  & Professional Services
+539,DLX,Deluxe Corp ,-0.0794,2020,Commercial  & Professional Services
+540,DMRC,Digimarc Corp ,-0.3265,4510,Software & Services
+541,DNOW,Now Inc ,0.2787,2010,Capital Goods
+542,DOC,Physicians Realty Trust ,-0.0632,6010,Real Estate
+543,DOOR,Masonite Worldwide Holdings ,-0.3568,2010,Capital Goods
+544,DORM,Dorman Products Inc ,-0.1687,2510,Automobiles & Components
+545,DOV,Dover Corp ,-0.1939,2010,Capital Goods
+546,DOX,Amdocs Ltd Ord ,0.1053,4510,Software & Services
+547,DPZ,Domino's Pizza Inc ,-0.3138,2530,Consumer Services
+548,DRE,Duke Realty Corp ,-0.1126,6010,Real Estate
+549,DRH,Diamondrock Hospitality Company ,0.0437,6010,Real Estate
+550,DRI,Darden Restaurants ,-0.1274,2530,Consumer Services
+551,DRQ,Dril-Quip ,0.8044,1010,Energy
+552,DRRX,Durect Corp ,-0.5168,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+553,DTE,Dte Energy Company ,0.1475,5510,Utilities
+554,DUK,Duke Energy Corp ,0.0949,5510,Utilities
+555,DVA,Davita Healthcare Partners Inc ,0.0676,3510,Health Care Equipment & Services
+556,DVAX,Dynavax Technologies ,-0.253,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+557,DVN,Devon Energy Corp ,0.4202,1010,Energy
+558,DX,Dynex Capital ,-0.0479,4020,Diversified Financials
+559,DXCM,Dexcom ,-0.0835,3510,Health Care Equipment & Services
+560,DXPE,Dxp Enterprise ,-0.021,2010,Capital Goods
+561,DY,Dycom Industries ,0.01,2010,Capital Goods
+562,DZSI,Dasan Zhone Solutions Inc ,-0.2269,4520,Technology Hardware & Equipment
+563,EA,Electronic Arts Inc ,-0.0705,5020,
+564,EAT,Brinker International ,-0.0156,2530,Consumer Services
+565,EBAY,Ebay Inc ,-0.1857,2550,Retailing
+566,EBF,Ennis Inc ,-0.0661,2020,Commercial  & Professional Services
+567,EBF,Ennis Inc ,-0.0661,2020,Commercial  & Professional Services
+568,EBIX,Ebix Inc ,0.0563,4510,Software & Services
+569,EBS,Emergent Biosolutions ,-0.0476,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+570,EBTC,Enterprise Bancorp ,-0.1589,4010,Banks
+571,ECL,Ecolab Inc ,-0.2472,1510,Materials
+572,ECOL,US Ecology Inc ,0.5009,2020,Commercial  & Professional Services
+573,ECOL,US Ecology Inc ,0.5009,2020,Commercial  & Professional Services
+574,ECOM,Channeladvisor Corp ,-0.3918,4510,Software & Services
+575,ECPG,Encore Capital Group ,-0.0436,4020,Diversified Financials
+576,ED,Consolidated Edison Company of New York ,0.149,5510,Utilities
+577,EDIT,Editas Medicine ,-0.3721,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+578,EEFT,Euronet Worldwide ,0.1154,4510,Software & Services
+579,EFC,Ellington Financial Llc ,0.0012,4020,Diversified Financials
+580,EFSC,Enterprises Finl Svc ,-0.0321,4010,Banks
+581,EFX,Equifax Inc ,-0.261,2020,Commercial  & Professional Services
+582,EFX,Equifax Inc ,-0.261,2020,Commercial  & Professional Services
+583,EGAN,Egain Corp ,0.1072,4510,Software & Services
+584,EGBN,Eagle Bancorp Inc ,-0.072,4010,Banks
+585,EGHT,8X8 Inc ,-0.3443,4510,Software & Services
+586,EGLE,Eagle Bulk Ship ,0.4958,2030,Transportation
+587,EGP,Eastgroup Properties ,-0.126,6010,Real Estate
+588,EGRX,Eagle Pharmaceuticals ,-0.0094,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+589,EHTH,Ehealth Inc ,-0.6314,4030,Insurance
+590,EIG,Employers Holdings Inc ,-0.0022,4030,Insurance
+591,EIX,Edison International ,0.0526,5510,Utilities
+592,EL,Estee Lauder Companies ,-0.2872,3030,Household & Personal Products
+593,ELF,E.L.F. Beauty Inc ,-0.2291,3030,Household & Personal Products
+594,ELS,Equity Lifestyle Properties ,-0.1018,6010,Real Estate
+595,ELY,Callaway Golf Company ,-0.1873,2520,Consumer Durables & Apparel
+596,EME,Emcor Group ,-0.0827,2010,Capital Goods
+597,EMKR,Emcore Corp ,-0.4728,4520,Technology Hardware & Equipment
+598,EMN,Eastman Chemical Company ,-0.1075,1510,Materials
+599,EMR,Emerson Electric Company ,-0.0012,2010,Capital Goods
+600,ENDP,Endo Int'l Plc ,-0.2952,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+601,ENPH,Enphase Energy Inc ,0.0414,4530,Semiconductors & Semiconductor Equipment
+602,ENR,Energizer Holdings Inc ,-0.2431,3030,Household & Personal Products
+603,ENS,Enersys Inc ,-0.1199,2010,Capital Goods
+604,ENSG,The Ensign Group IN ,0.0166,3510,Health Care Equipment & Services
+605,ENTA,Enanta Pharmaceutica ,-0.0071,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+606,ENTG,Entegris Inc ,-0.2054,4530,Semiconductors & Semiconductor Equipment
+607,ENV,Envestnet Inc ,0.046,4510,Software & Services
+608,ENVA,Enova International Inc ,-0.0833,4020,Diversified Financials
+609,EOG,Eog Resources ,0.384,1010,Energy
+610,EPAM,Epam Systems Inc ,-0.5661,4510,Software & Services
+611,EPAY,Bottomline Tech IN ,0.006,4510,Software & Services
+612,EPC,Edgewell Personal Care ,-0.2004,3030,Household & Personal Products
+613,EPR,Entertainment Properties Trust ,0.1253,6010,Real Estate
+614,EPZM,Epizyme Inc ,-0.6943,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+615,EQBK,Equity Bncsrs Cm A ,-0.0914,4010,Banks
+616,EQC,Equity Commonwealth ,0.0552,6010,Real Estate
+617,EQIX,Equinix Inc ,-0.1308,6010,Real Estate
+618,EQR,Equity Residential ,-0.0008,6010,Real Estate
+619,EQT,Eqt Corp ,0.9422,1010,Energy
+620,ERIE,Erie Indemnity Company ,-0.0307,4030,Insurance
+621,ERII,Energy Recovery Inc ,-0.0544,2010,Capital Goods
+622,ES,Eversource Energy ,0.0178,5510,Utilities
+623,ESE,Esco Technologies Inc ,-0.2826,2010,Capital Goods
+624,ESGR,Enstar Group Ltd ,0.0184,4030,Insurance
+625,ESNT,Essent Group Ltd ,-0.0843,4010,Banks
+626,ESPR,Esperion Theraptc ,0.178,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+627,ESRT,Empire State Realty Trust Inc ,0.0,6010,Real Estate
+628,ESS,Essex Property Trust ,-0.0191,6010,Real Estate
+629,ESTE,Earthstone Energy ,0.2578,1010,Energy
+630,ETN,Eaton Corp ,-0.1904,2010,Capital Goods
+631,ETR,Entergy Corp ,0.1025,5510,Utilities
+632,ETSY,Etsy Inc ,-0.4711,2550,Retailing
+633,EVBG,Everbridge Inc ,-0.2604,4510,Software & Services
+634,EVC,Entravision Communications Corp ,-0.1844,5020,
+635,EVH,Evolent Health Inc Cl A Com ,0.0961,3510,Health Care Equipment & Services
+636,EVR,Evercore Partners Inc ,-0.2188,4020,Diversified Financials
+637,EVRI,Everi Holdings Inc ,-0.0951,2530,Consumer Services
+638,EVTC,Evertec Inc ,-0.1853,4510,Software & Services
+639,EW,Edwards Lifesciences Corp ,-0.0736,3510,Health Care Equipment & Services
+640,EWBC,East West Bancorp ,-0.0473,4010,Banks
+641,EXAS,Exact Sciences Cor ,-0.1056,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+642,EXC,Exelon Corp ,0.1884,5510,Utilities
+643,EXEL,Exelixis Inc ,0.2631,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+644,EXLS,Exlservice Holdings ,0.0065,4510,Software & Services
+645,EXP,Eagle Materials Inc ,-0.2563,1510,Materials
+646,EXPD,Expeditors Intl ,-0.28,2030,Transportation
+647,EXPE,Expedia Group Inc ,0.0599,2530,Consumer Services
+648,EXPO,Exponent Inc ,-0.076,2020,Commercial  & Professional Services
+649,EXPO,Exponent Inc ,-0.076,2020,Commercial  & Professional Services
+650,EXR,Extra Space Storage Inc ,-0.0625,6010,Real Estate
+651,EXTR,Extreme Networks ,-0.2637,4520,Technology Hardware & Equipment
+652,EZPW,Ezcorp Inc ,-0.0312,4020,Diversified Financials
+653,F,Ford Motor Company ,-0.2547,2510,Automobiles & Components
+654,FAF,First American Corp ,-0.256,4030,Insurance
+655,FANG,Diamondback Energy ,0.2836,1010,Energy
+656,FARO,Faro Tech Inc ,-0.3605,4520,Technology Hardware & Equipment
+657,FAST,Fastenal Company ,-0.1257,2010,Capital Goods
+658,FATE,Fate Therapeutics ,-0.3545,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+659,FB,Meta Platforms Inc ,-0.3751,5020,
+660,FBC,Flagstar Bancorp ,-0.1727,4010,Banks
+661,FBHS,Fortune Brands Home & Security ,-0.3486,2010,Capital Goods
+662,FBK,Fb Financial Corp ,-0.0582,4010,Banks
+663,FBMS,First Bancshs [Ms] ,-0.1543,4010,Banks
+664,FBNC,First Bancorp [Nc] ,-0.1527,4010,Banks
+665,FBP,First Bancorp ,-0.0522,4010,Banks
+666,FC,Franklin Covey Company ,-0.0485,2020,Commercial  & Professional Services
+667,FC,Franklin Covey Company ,-0.0485,2020,Commercial  & Professional Services
+668,FCBC,First Community Bksh ,-0.1855,4010,Banks
+669,FCEL,Fuelcell Energy Inc ,0.0115,2010,Capital Goods
+670,FCF,First Commonwealth Financial Corp ,-0.1019,4010,Banks
+671,FCFS,Firstcash Holdings Inc ,-0.009,4020,Diversified Financials
+672,FCN,Fti Consulting ,0.0621,2020,Commercial  & Professional Services
+673,FCN,Fti Consulting ,0.0621,2020,Commercial  & Professional Services
+674,FCNCA,First Citizens Bancs ,-0.2313,4010,Banks
+675,FCPT,Four Corners Property Trust IN ,-0.0136,6010,Real Estate
+676,FCX,Freeport-Mcmoran Inc ,0.1788,1510,Materials
+677,FDP,Fresh Del Monte Produce ,-0.037,3020,"Food, Beverage & Tobacco"
+678,FDS,Factset Research Systems Inc ,-0.1346,4020,Diversified Financials
+679,FDX,Fedex Corp ,-0.2045,2030,Transportation
+680,FE,Firstenergy Corp ,0.1397,5510,Utilities
+681,FELE,Franklin Electric Company ,-0.1687,2010,Capital Goods
+682,FFBC,First Finl Bncp [Oh] ,-0.1066,4010,Banks
+683,FFIC,Flushing Finl Corp ,-0.1305,4010,Banks
+684,FFIN,First Finl Bkshs Inc ,-0.1778,4010,Banks
+685,FFIV,F5 Inc ,-0.1846,4520,Technology Hardware & Equipment
+686,FFWM,First Foundation ,-0.0664,4010,Banks
+687,FGEN,Fibrogen Inc CS ,-0.1617,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+688,FHB,First Hawaiian Inc ,-0.0124,4010,Banks
+689,FHN,First Horizon Corp ,0.4109,4010,Banks
+690,FIBK,First Interstate Ban ,-0.1554,4010,Banks
+691,FICO,Fair Isaac and Company ,-0.046,4510,Software & Services
+692,FIS,Fidelity National Information Services ,-0.0614,4510,Software & Services
+693,FISI,Financial Institut ,-0.0802,4010,Banks
+694,FISV,Fiserv Inc ,-0.0397,4510,Software & Services
+695,FITB,Fifth Third Bancorp ,-0.1042,4010,Banks
+696,FIVE,Five Below Inc ,-0.1322,2550,Retailing
+697,FIVN,Five9 Inc ,-0.1735,4510,Software & Services
+698,FIX,Comfort Systems USA ,-0.1048,2010,Capital Goods
+699,FIZZ,Natl Beverage Cp ,0.0443,3020,"Food, Beverage & Tobacco"
+700,FL,Footlocker Inc ,-0.3032,2550,Retailing
+701,FLGT,Fulgent Genetics Inc ,-0.442,3510,Health Care Equipment & Services
+702,FLIC,First of Long Isla ,-0.1186,4010,Banks
+703,FLL,Full House Rsts ,-0.2089,2530,Consumer Services
+704,FLO,Flowers Foods ,-0.0251,3020,"Food, Beverage & Tobacco"
+705,FLR,Fluor Corp ,0.2111,2010,Capital Goods
+706,FLS,Flowserve Corp ,0.167,2010,Capital Goods
+707,FLT,Fleetcor Technologies ,0.1556,4510,Software & Services
+708,FLWS,1-800-Flowers.com ,-0.4266,2550,Retailing
+709,FMBH,First Mid Ill Bncshr ,-0.1306,4010,Banks
+710,FMC,FMC Corp ,0.2448,1510,Materials
+711,FMNB,Farmers Natl Banc Cp ,-0.1375,4010,Banks
+712,FN,Fabrinet ,-0.1946,4520,Technology Hardware & Equipment
+713,FNB,F.N.B. Corp ,-0.0016,4010,Banks
+714,FNF,Fidelity National Financial ,-0.1913,4030,Insurance
+715,FNLC,First Bancorp Inc ,-0.0755,4010,Banks
+716,FOE,Ferro Corp ,-0.0041,1510,Materials
+717,FOLD,Amicus Therapeutics ,-0.2909,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+718,FORM,Formfactor Inc ,-0.2126,4530,Semiconductors & Semiconductor Equipment
+719,FORR,Forrester Resrch ,-0.0507,2020,Commercial  & Professional Services
+720,FORR,Forrester Resrch ,-0.0507,2020,Commercial  & Professional Services
+721,FOSL,Fossil Group ,0.0496,2520,Consumer Durables & Apparel
+722,FOXA,Fox Corp Cl A ,0.0602,5020,
+723,FOXF,Fox Factory Cp ,-0.4645,2510,Automobiles & Components
+724,FPI,Farmland Partners Inc ,0.2092,6010,Real Estate
+725,FR,First Industrial Realty Trust ,-0.0698,6010,Real Estate
+726,FRC,First Republic Bank ,-0.2216,4010,Banks
+727,FRME,First Merchants Corp ,-0.0487,4010,Banks
+728,FRO,Frontline Ltd ,0.338,1010,Energy
+729,FRPT,Freshpet Inc CS ,0.1848,3020,"Food, Beverage & Tobacco"
+730,FRT,Federal Realty Investment Trust ,-0.0958,6010,Real Estate
+731,FSLR,First Solar Inc ,-0.1037,4530,Semiconductors & Semiconductor Equipment
+732,FSP,Franklin Street Properties ,-0.0689,6010,Real Estate
+733,FSS,Federal Signal Corp ,-0.2312,2010,Capital Goods
+734,FTNT,Fortinet Inc ,-0.0769,4510,Software & Services
+735,FTV,Fortive Corp ,-0.2374,2010,Capital Goods
+736,FUL,H. B. Fuller Company ,-0.1321,1510,Materials
+737,FULT,Fulton Financial Cor ,-0.0676,4010,Banks
+738,FWONK,Liberty Media F1 Series K ,0.0857,5020,
+739,FWRD,Foward Air Corp ,-0.2497,2030,Transportation
+740,G,Genpact Ltd ,-0.2065,4510,Software & Services
+741,GABC,German Amer Bncp Inc ,-0.0593,4010,Banks
+742,GATX,GATX Corp ,0.1257,2010,Capital Goods
+743,GBCI,Glacier Bancorp Inc ,-0.194,4010,Banks
+744,GBT,Global Blood Ther ,0.2108,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+745,GBX,Greenbrier Companies ,-0.0144,2010,Capital Goods
+746,GCO,Genesco Inc ,0.0687,2550,Retailing
+747,GCP,Gcp Applied Technologies Inc C ,-0.0126,1510,Materials
+748,GD,General Dynamics Corp ,0.1692,2010,Capital Goods
+749,GDDY,Godaddy Inc ,0.0186,4510,Software & Services
+750,GDEN,Golden Entmt ,0.0659,2530,Consumer Services
+751,GDOT,Green Dot Corp ,-0.2437,4020,Diversified Financials
+752,GE,General Electric Company ,-0.0385,2010,Capital Goods
+753,GEO,Geo Group Inc ,-0.1252,2020,Commercial  & Professional Services
+754,GEO,Geo Group Inc ,-0.1252,2020,Commercial  & Professional Services
+755,GERN,Geron Corp ,0.2623,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+756,GES,Guess Inc ,-0.0139,2550,Retailing
+757,GEVO,Gevo Inc ,0.0678,1010,Energy
+758,GFF,Griffon Corp ,-0.349,2010,Capital Goods
+759,GGG,Graco Inc ,-0.191,2010,Capital Goods
+760,GHC,Graham Holdings Company ,-0.0259,2530,Consumer Services
+761,GIII,G-III Apparel Gp ,0.0488,2520,Consumer Durables & Apparel
+762,GILD,Gilead Sciences Inc ,-0.1486,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+763,GIS,General Mills ,0.0525,3020,"Food, Beverage & Tobacco"
+764,GKOS,Glaukos Corp ,0.3722,3510,Health Care Equipment & Services
+765,GLDD,Great Lakes Drg Dock ,-0.1177,2010,Capital Goods
+766,GLOB,Globant S.A. ,-0.2566,4510,Software & Services
+767,GLPI,Gaming & Leisure ,-0.0399,6010,Real Estate
+768,GLT,Glatfelter ,-0.3058,1510,Materials
+769,GLW,Corning Inc ,-0.0951,4520,Technology Hardware & Equipment
+770,GM,General Motors Company ,-0.3155,2510,Automobiles & Components
+771,GME,Gamestop Corp ,0.016,2550,Retailing
+772,GMED,Globus Medical Inc ,0.0734,3510,Health Care Equipment & Services
+773,GMRE,Global Medical REIT Inc ,-0.1054,6010,Real Estate
+774,GMS,Gms Inc ,-0.1833,2010,Capital Goods
+775,GNK,Genco Shipping & Trading Ltd ,0.54,2030,Transportation
+776,GNL,Global Net Lease Inc ,-0.0105,6010,Real Estate
+777,GNRC,Generac Holdings Inc ,-0.2862,2010,Capital Goods
+778,GNTX,Gentex Corp ,-0.2083,2510,Automobiles & Components
+779,GNW,Genworth Financial Inc ,-0.0741,4030,Insurance
+780,GOGO,Gogo Inc ,0.7206,5010,Telecommunication Services
+781,GOLF,Acushnet Holdings Corp ,-0.2168,2520,Consumer Durables & Apparel
+782,GOOD,Gladstone Comml ,-0.13,6010,Real Estate
+783,GOOGL,Alphabet Cl A ,-0.1251,5020,
+784,GPC,Genuine Parts Company ,-0.066,2550,Retailing
+785,GPI,Group 1 Automotive ,-0.1704,2550,Retailing
+786,GPK,Graphic Packaging Holding Company ,0.0728,1510,Materials
+787,GPN,Global Payments Inc ,0.0353,4510,Software & Services
+788,GPRE,Green Plains Inc ,-0.1024,1010,Energy
+789,GPRO,Gopro Inc Cl A ,-0.1513,2520,Consumer Durables & Apparel
+790,GPS,Gap Inc ,-0.2006,2550,Retailing
+791,GRBK,Green Brick Partners ,-0.3719,2520,Consumer Durables & Apparel
+792,GRC,Gorman-Rupp Company ,-0.2249,2010,Capital Goods
+793,GRMN,Garmin Ltd ,-0.1826,2520,Consumer Durables & Apparel
+794,GRPN,Groupon Cl A ,-0.1442,2550,Retailing
+795,GS,Goldman Sachs Group ,-0.1592,4020,Diversified Financials
+796,GSAT,Globalstar ,0.1121,5010,Telecommunication Services
+797,GSBC,Great Southern Bncp ,-0.0289,4010,Banks
+798,GT,Goodyear Tire Rubber ,-0.378,2510,Automobiles & Components
+799,GTLS,Chart Industries IN ,0.1225,2010,Capital Goods
+800,GTY,Getty Realty Corp ,-0.1094,6010,Real Estate
+801,GVA,Granite Construction Inc ,-0.1597,2010,Capital Goods
+802,GWRE,Guidewire Software Inc ,-0.1972,4510,Software & Services
+803,GWW,W.W. Grainger ,-0.0517,2010,Capital Goods
+804,H,Hyatt Hotels Corp ,0.0115,2530,Consumer Services
+805,HA,Hawaiian Hlds Inc ,0.0386,2030,Transportation
+806,HAE,Haemonetics Corp ,0.0713,3510,Health Care Equipment & Services
+807,HAFC,Hanmi Financial Cp ,0.0114,4010,Banks
+808,HAIN,Hain Celestial Group ,-0.1929,3020,"Food, Beverage & Tobacco"
+809,HAL,Halliburton Company ,0.7822,1010,Energy
+810,HALO,Halozyme Therapeutic ,0.0512,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+811,HAS,Hasbro Inc ,-0.1627,2520,Consumer Durables & Apparel
+812,HASI,Hannon Armstrong Sustainable IN ,-0.1796,4020,Diversified Financials
+813,HAYN,Haynes Intl Inc ,0.1103,1510,Materials
+814,HBAN,Huntington Bcshs ,-0.1336,4010,Banks
+815,HBCP,Home Bancorp Inc ,-0.033,4010,Banks
+816,HBI,Hanesbrands Inc ,-0.1579,2520,Consumer Durables & Apparel
+817,HBIO,Harvard Bioscience ,-0.166,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+818,HBNC,Horizon Bancorp ,-0.1084,4010,Banks
+819,HCA,Hca Holdings Inc ,0.0156,3510,Health Care Equipment & Services
+820,HCCI,Heritage-Crystal ,-0.1037,2020,Commercial  & Professional Services
+821,HCCI,Heritage-Crystal ,-0.1037,2020,Commercial  & Professional Services
+822,HCI,Homeowners Choice ,-0.1919,4030,Insurance
+823,HCKT,Hackett Grp Inc ,0.1534,4510,Software & Services
+824,HCSG,Healthcare Svcs Gp ,-0.0382,2020,Commercial  & Professional Services
+825,HCSG,Healthcare Svcs Gp ,-0.0382,2020,Commercial  & Professional Services
+826,HD,Home Depot ,-0.2662,2550,Retailing
+827,HE,Hawaiian Electric Industries ,0.0573,5510,Utilities
+828,HEAR,Turtle Beach Corp ,-0.1357,4520,Technology Hardware & Equipment
+829,HEES,H&E Equip Services ,-0.1046,2010,Capital Goods
+830,HELE,Helen of Troy Ltd ,-0.163,2520,Consumer Durables & Apparel
+831,HES,Hess Corp ,0.5496,1010,Energy
+832,HFWA,Heritage Financial ,-0.0086,4010,Banks
+833,HGV,Hilton Grand Vacations Inc ,-0.0543,2530,Consumer Services
+834,HHC,Howard Hughes Corp ,-0.0122,6010,Real Estate
+835,HI,Hillenbrand Inc ,-0.1995,2010,Capital Goods
+836,HIBB,Hibbett Inc ,-0.3704,2550,Retailing
+837,HIFS,Hingham Inst For Svg ,-0.1858,4010,Banks
+838,HIG,Hartford Financial Services Group ,0.0856,4030,Insurance
+839,HII,Huntington Ingalls Industries ,0.1924,2010,Capital Goods
+840,HIW,Highwoods Properties ,-0.0206,6010,Real Estate
+841,HL,Hecla Mining Company ,0.3697,1510,Materials
+842,HLF,Herbalife Ltd ,-0.2739,3030,Household & Personal Products
+843,HLI,Houlihan Lokey ,-0.2063,4020,Diversified Financials
+844,HLIT,Harmonic Inc ,-0.2738,4520,Technology Hardware & Equipment
+845,HLT,Hilton Inc ,-0.0026,2530,Consumer Services
+846,HLX,Helix Energy Solutions Group ,0.6538,1010,Energy
+847,HMN,Horace Mann Educators Corp ,0.0491,4030,Insurance
+848,HMST,Homestreet Inc ,-0.144,4010,Banks
+849,HNI,Hon Industries Inc ,-0.1493,2020,Commercial  & Professional Services
+850,HNI,Hon Industries Inc ,-0.1493,2020,Commercial  & Professional Services
+851,HOFT,Hooker Furnishings Corp ,-0.2165,2520,Consumer Durables & Apparel
+852,HOG,Harley-Davidson Inc ,0.0135,2510,Automobiles & Components
+853,HOLX,Hologic Inc ,-0.003,3510,Health Care Equipment & Services
+854,HOMB,Home Bancshares Inc ,-0.092,4010,Banks
+855,HON,Honeywell International Inc ,-0.0639,2010,Capital Goods
+856,HONE,Harborone Bancorp Inc ,-0.0741,4010,Banks
+857,HOPE,Hope Bancorp Inc ,0.0578,4010,Banks
+858,HOV,Hovnanian Enterprises Inc ,-0.6032,2520,Consumer Durables & Apparel
+859,HP,Helmerich & Payne ,1.062,1010,Energy
+860,HPE,Hewlett Packard Enterprise Comp ,-0.0247,4520,Technology Hardware & Equipment
+861,HPP,Hudson Pacific Properties ,0.0316,6010,Real Estate
+862,HPQ,HP Inc ,-0.0053,4520,Technology Hardware & Equipment
+863,HQY,Healthequity ,0.5825,3510,Health Care Equipment & Services
+864,HR,Healthcare Realty Trust Inc ,-0.1302,6010,Real Estate
+865,HRB,H&R Block ,0.1367,2530,Consumer Services
+866,HRI,Herc Holdings Inc ,-0.0687,2010,Capital Goods
+867,HRL,Hormel Foods Corp ,0.0947,3020,"Food, Beverage & Tobacco"
+868,HRTX,Heron Therapeutics ,-0.3571,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+869,HSC,Harsco Corp ,-0.322,2020,Commercial  & Professional Services
+870,HSC,Harsco Corp ,-0.322,2020,Commercial  & Professional Services
+871,HSIC,Henry Schein Inc ,0.1784,3510,Health Care Equipment & Services
+872,HSII,Heidrick & Struggl ,-0.0976,2020,Commercial  & Professional Services
+873,HSII,Heidrick & Struggl ,-0.0976,2020,Commercial  & Professional Services
+874,HSKA,Heska Corp ,-0.2551,3510,Health Care Equipment & Services
+875,HST,Host Marriott Financial Trust ,0.1259,6010,Real Estate
+876,HSTM,Healthstream Inc ,-0.2451,3510,Health Care Equipment & Services
+877,HSY,Hershey Foods Corp ,0.168,3020,"Food, Beverage & Tobacco"
+878,HT,Hersha Hospitality Trust ,0.0349,6010,Real Estate
+879,HTA,Healthcare Trust of America ,-0.0617,6010,Real Estate
+880,HTBI,Hometrust Bancshares ,-0.0684,4010,Banks
+881,HTBK,Heritage Commerce ,-0.0477,4010,Banks
+882,HTH,Hilltop Holdings Inc ,-0.204,4010,Banks
+883,HTLD,Heartland Express ,-0.2176,2030,Transportation
+884,HTLF,Heartland Finl USA ,-0.0887,4010,Banks
+885,HUBB,Hubbell Inc B ,-0.1117,2010,Capital Goods
+886,HUBG,Hub Group Inc A ,-0.2601,2030,Transportation
+887,HUBS,Hubspot Inc ,-0.3242,4510,Software & Services
+888,HUM,Humana Inc ,-0.0071,3510,Health Care Equipment & Services
+889,HUN,Huntsman Corp ,-0.0241,1510,Materials
+890,HURN,Huron Consulting ,0.077,2020,Commercial  & Professional Services
+891,HURN,Huron Consulting ,0.077,2020,Commercial  & Professional Services
+892,HWKN,Hawkins Inc ,0.0535,1510,Materials
+893,HXL,Hexcel Corp ,0.0853,2010,Capital Goods
+894,HY,Hyster-Yale Materials Handling ,-0.2117,2010,Capital Goods
+895,HZNP,Horizon Therapeutics ,0.0798,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+896,HZO,Marinemax Inc ,-0.3188,2550,Retailing
+897,IAC,Iac Interactivecorp ,-0.2659,5020,
+898,IART,Integra Lifesciences ,-0.0643,3510,Health Care Equipment & Services
+899,IBCP,Independent Bk Cp ,-0.1144,4010,Banks
+900,IBIO,Ibio Inc ,-0.3306,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+901,IBKR,Interactive Brokers ,-0.1779,4020,Diversified Financials
+902,IBM,International Business Machines ,-0.0531,4510,Software & Services
+903,IBOC,Intl Bancshares ,-0.0472,4010,Banks
+904,IBP,Installed Building Products ,-0.4242,2520,Consumer Durables & Apparel
+905,IBTX,Independent Bank Group ,-0.0298,4010,Banks
+906,ICAD,Icad Inc ,-0.5,3510,Health Care Equipment & Services
+907,ICE,Intercontinental Exchange ,-0.0895,4020,Diversified Financials
+908,ICFI,Icf International ,-0.0326,2020,Commercial  & Professional Services
+909,ICFI,Icf International ,-0.0326,2020,Commercial  & Professional Services
+910,ICHR,Ichor Holdings Ltd ,-0.3654,4530,Semiconductors & Semiconductor Equipment
+911,ICPT,Intercept Pharmaceuticals ,0.011,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+912,ICUI,I C U Medical Inc ,-0.0581,3510,Health Care Equipment & Services
+913,IDA,Idacorp Inc ,0.0067,5510,Utilities
+914,IDCC,Interdigital Inc ,-0.1497,4510,Software & Services
+915,IDT,IDT Corp ,-0.2991,5010,Telecommunication Services
+916,IDXX,Idexx Laboratories ,-0.2455,3510,Health Care Equipment & Services
+917,IESC,Ies Holdings ,-0.237,2010,Capital Goods
+918,IEX,Idex Corp ,-0.1936,2010,Capital Goods
+919,IFF,International Flavors & Fragrances ,-0.1674,1510,Materials
+920,IGT,International Game Technology ,-0.1491,2530,Consumer Services
+921,IIIN,Insteel Industries ,-0.0678,2010,Capital Goods
+922,IIPR,Innovative Industrial Properties ,-0.3546,6010,Real Estate
+923,IIVI,I I V I Inc ,-0.0929,4520,Technology Hardware & Equipment
+924,ILMN,Illumina Inc ,-0.1155,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+925,IMAX,Imax Corp ,-0.0561,5020,
+926,IMGN,Immunogen Inc ,-0.279,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+927,IMKTA,Ingles Markets Inc ,0.1015,3010,Food & Staples Retailing
+928,INBK,First Internet Bcp ,-0.1163,4010,Banks
+929,INCY,Incyte Corp ,0.1136,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+930,INDB,Independent Bk Corp ,-0.0379,4010,Banks
+931,INFN,Infinera Corp ,-0.2044,4520,Technology Hardware & Equipment
+932,INFU,Infusystems Holdings ,-0.5026,3510,Health Care Equipment & Services
+933,INGN,Inogen Inc ,-0.1662,3510,Health Care Equipment & Services
+934,INGR,Ingredion Inc ,-0.0738,3020,"Food, Beverage & Tobacco"
+935,INN,Summit Hotel Properties ,-0.0051,6010,Real Estate
+936,INO,Inovio Pharma ,-0.3587,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+937,INSG,Inseego Corp ,-0.434,4520,Technology Hardware & Equipment
+938,INSM,Insmed Inc ,-0.0584,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+939,INSW,International Seaways Inc ,0.408,1010,Energy
+940,INT,World Fuel Services Corp ,0.0023,1010,Energy
+941,INTC,Intel Corp ,-0.1132,4530,Semiconductors & Semiconductor Equipment
+942,INTU,Intuit Inc ,-0.2769,4510,Software & Services
+943,INVA,Innoviva Inc ,0.1032,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+944,INVE,Identiv Inc ,-0.5327,4520,Technology Hardware & Equipment
+945,IONS,Ionis Pharmaceuticals ,0.3464,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+946,IOSP,Innospec Inc ,0.0386,1510,Materials
+947,IP,International Paper Company ,0.0096,1510,Materials
+948,IPAR,Inter Parfums Inc ,-0.1962,3030,Household & Personal Products
+949,IPG,Interpublic Group of Companies ,-0.079,5020,
+950,IPGP,Ipg Photonics Corp ,-0.4348,4520,Technology Hardware & Equipment
+951,IPI,Intrepid Potash Inc ,1.6199,1510,Materials
+952,IR,Ingersoll Rand Inc ,-0.2494,2010,Capital Goods
+953,IRBT,Irobot Corp ,-0.1781,2520,Consumer Durables & Apparel
+954,IRDM,Iridium Comm Inc ,-0.0189,5010,Telecommunication Services
+955,IRM,Iron Mountain Inc ,0.059,6010,Real Estate
+956,IRMD,Iradimed Cp ,-0.0428,3510,Health Care Equipment & Services
+957,IRT,Independence Realty Trust Inc ,0.0437,6010,Real Estate
+958,IRTC,Irhythm Technologies Inc ,0.2279,3510,Health Care Equipment & Services
+959,IRWD,Ironwood Pharmaceuti ,0.0566,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+960,ISRG,Intuitive Surg Inc ,-0.2215,3510,Health Care Equipment & Services
+961,IT,Gartner Inc ,-0.1083,4510,Software & Services
+962,ITCI,Intra-Cellular Ther ,0.2285,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+963,ITGR,Integer Holdings Corp ,-0.0458,3510,Health Care Equipment & Services
+964,ITRI,Itron Inc ,-0.2701,4520,Technology Hardware & Equipment
+965,ITT,ITT Inc ,-0.2932,2010,Capital Goods
+966,ITW,Illinois Tool Works Inc ,-0.2047,2010,Capital Goods
+967,IVR,Invesco Mortgage Capital Inc ,-0.2986,4020,Diversified Financials
+968,IVZ,Invesco Plc ,-0.0877,4020,Diversified Financials
+969,JACK,Jack IN The Box Inc ,0.0517,2530,Consumer Services
+970,JAZZ,Jazz Pharma Plc ,0.3128,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+971,JBHT,J B Hunt Transport ,-0.1585,2030,Transportation
+972,JBL,Jabil Circuit ,-0.1905,4520,Technology Hardware & Equipment
+973,JBLU,Jetblue Airways Cp ,-0.1025,2030,Transportation
+974,JBSS,John B Sanfilippo ,-0.0471,3020,"Food, Beverage & Tobacco"
+975,JBT,John Bean Technologies Corp ,-0.2902,2010,Capital Goods
+976,JCI,Johnson Controls Intl ,-0.2433,2010,Capital Goods
+977,JELD,Jeld-Wen Holding Inc ,-0.2162,2010,Capital Goods
+978,JJSF,J J Snack Foods ,-0.0115,3020,"Food, Beverage & Tobacco"
+979,JKHY,Jack Henry & Assoc ,0.2006,4510,Software & Services
+980,JLL,Jones Lang Lasalle Inc ,-0.165,6010,Real Estate
+981,JNCE,Jounce Therapeutics Inc ,-0.188,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+982,JNJ,Johnson & Johnson ,0.0516,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+983,JNPR,Juniper Networks ,-0.0162,4520,Technology Hardware & Equipment
+984,JOE,St. Joe Company ,0.1199,6010,Real Estate
+985,JOUT,Johnson Outdoors ,-0.1493,2520,Consumer Durables & Apparel
+986,JPM,JP Morgan Chase & Company ,-0.2035,4010,Banks
+987,JRVR,James River Gp HD ,-0.1583,4030,Insurance
+988,JWN,Nordstrom ,0.2754,2550,Retailing
+989,JYNT,The Joint Corp ,-0.4897,3510,Health Care Equipment & Services
+990,K,Kellogg Company ,0.0537,3020,"Food, Beverage & Tobacco"
+991,KAI,Kadant Inc ,-0.1792,2010,Capital Goods
+992,KALU,Kaiser Aluminum ,0.0697,1510,Materials
+993,KALV,Kalvista Pharmaceuticals Inc ,0.0854,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+994,KAMN,Kaman Corp ,-0.0114,2010,Capital Goods
+995,KAR,Kar Auction Services Inc ,0.1255,2020,Commercial  & Professional Services
+996,KAR,Kar Auction Services Inc ,0.1255,2020,Commercial  & Professional Services
+997,KBAL,Kimball Intl Cl B ,-0.218,2020,Commercial  & Professional Services
+998,KBAL,Kimball Intl Cl B ,-0.218,2020,Commercial  & Professional Services
+999,KBH,KB Home ,-0.2578,2520,Consumer Durables & Apparel
+1000,KBR,KBR Inc ,0.1869,2020,Commercial  & Professional Services
+1001,KBR,KBR Inc ,0.1869,2020,Commercial  & Professional Services
+1002,KE,Kimball Electrnc ,-0.2054,4520,Technology Hardware & Equipment
+1003,KELYA,Kelly Svcs Cl A ,0.2439,2020,Commercial  & Professional Services
+1004,KELYA,Kelly Svcs Cl A ,0.2439,2020,Commercial  & Professional Services
+1005,KEX,Kirby Corp ,0.1203,2030,Transportation
+1006,KEY,Keycorp ,-0.1146,4010,Banks
+1007,KEYS,Keysight Technologies Inc Comm ,-0.303,4520,Technology Hardware & Equipment
+1008,KFRC,Kforce Inc ,-0.0322,2020,Commercial  & Professional Services
+1009,KFRC,Kforce Inc ,-0.0322,2020,Commercial  & Professional Services
+1010,KFY,Korn/Ferry International ,-0.1336,2020,Commercial  & Professional Services
+1011,KFY,Korn/Ferry International ,-0.1336,2020,Commercial  & Professional Services
+1012,KHC,Kraft Heinz Company ,0.178,3020,"Food, Beverage & Tobacco"
+1013,KIM,Kimco Realty Corp ,0.0195,6010,Real Estate
+1014,KKR,KKR & Co. LP ,-0.2584,4020,Diversified Financials
+1015,KLAC,K L A-Tencor Corp ,-0.2526,4530,Semiconductors & Semiconductor Equipment
+1016,KLIC,Kulicke and Soffa ,-0.1544,4530,Semiconductors & Semiconductor Equipment
+1017,KMB,Kimberly-Clark Corp ,-0.1154,3030,Household & Personal Products
+1018,KMI,Kinder Morgan ,0.2213,1010,Energy
+1019,KMPR,Kemper Corp ,-0.0602,4030,Insurance
+1020,KMT,Kennametal Inc ,-0.2476,2010,Capital Goods
+1021,KMX,Carmax Inc ,-0.2952,2550,Retailing
+1022,KN,Knowles Corp ,-0.191,4520,Technology Hardware & Equipment
+1023,KNSL,Kinsale Capital Group Inc ,-0.0259,4030,Insurance
+1024,KO,Coca-Cola Company ,0.0981,3020,"Food, Beverage & Tobacco"
+1025,KODK,Eastman Kodak ,0.3248,4520,Technology Hardware & Equipment
+1026,KOP,Koppers Holdings Inc ,-0.1425,1510,Materials
+1027,KOPN,Kopin Cp ,-0.5257,4530,Semiconductors & Semiconductor Equipment
+1028,KOS,Kosmos Energy Ltd ,1.2052,1010,Energy
+1029,KPTI,Karyopharm Therapeut ,0.2131,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1030,KR,Kroger Company ,0.2886,3010,Food & Staples Retailing
+1031,KRC,Kilroy Realty Corp ,0.1195,6010,Real Estate
+1032,KRG,Kite Realty Group Trust ,0.0275,6010,Real Estate
+1033,KRNY,Kearny Financial ,-0.0619,4010,Banks
+1034,KSS,Kohl's Corp ,0.2351,2550,Retailing
+1035,KTOS,Kratos Defns ,-0.0108,2010,Capital Goods
+1036,KURA,Kura Oncology ,0.1521,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1037,KW,Kennedy-Wilson Holdings Inc ,-0.008,6010,Real Estate
+1038,KWR,Quaker Chemical Corp ,-0.3067,1510,Materials
+1039,L,Loews Corp ,0.1279,4030,Insurance
+1040,LAD,Lithia Motors ,-0.0212,2550,Retailing
+1041,LADR,Ladder Capital Corp ,0.0492,4020,Diversified Financials
+1042,LAMR,Lamar Advertis A ,-0.0705,6010,Real Estate
+1043,LANC,Lancaster Colony Cor ,-0.0629,3020,"Food, Beverage & Tobacco"
+1044,LAND,Gladstone Land Corp ,0.1777,6010,Real Estate
+1045,LAZ,Lazard Ltd ,-0.2395,4020,Diversified Financials
+1046,LBAI,Lakeland Bancorp Inc ,-0.1643,4010,Banks
+1047,LBRDK,Liberty Broadbd C ,-0.1431,5020,
+1048,LC,Lendingclub Corp ,-0.4409,4020,Diversified Financials
+1049,LCII,Lci Industries ,-0.3316,2510,Automobiles & Components
+1050,LDOS,Leidos Holdings Inc ,0.2268,2020,Commercial  & Professional Services
+1051,LDOS,Leidos Holdings Inc ,0.2268,2020,Commercial  & Professional Services
+1052,LE,Lands' End Inc ,-0.1605,2550,Retailing
+1053,LEA,Lear Corp ,-0.2997,2510,Automobiles & Components
+1054,LECO,Lincoln Elec Holdings ,-0.0717,2010,Capital Goods
+1055,LEG,Leggett & Platt Inc ,-0.1285,2520,Consumer Durables & Apparel
+1056,LEU,Centrus Energy Corp ,-0.3486,1010,Energy
+1057,LFUS,Littelfuse Inc ,-0.2722,4520,Technology Hardware & Equipment
+1058,LGIH,LGI Homes Inc ,-0.417,2520,Consumer Durables & Apparel
+1059,LGND,Ligand Pharm ,-0.3185,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1060,LH,Laboratory Corp of America Holdings ,-0.1438,3510,Health Care Equipment & Services
+1061,LHCG,LHC Group Inc ,0.218,3510,Health Care Equipment & Services
+1062,LII,Lennox International ,-0.2602,2010,Capital Goods
+1063,LIND,Lindblad Expd Holdings ,0.0122,2530,Consumer Services
+1064,LITE,Lumentum Holdings ,-0.1902,4520,Technology Hardware & Equipment
+1065,LIVN,Livanova Plc OR Sh ,-0.0665,3510,Health Care Equipment & Services
+1066,LKFN,Lakeland Finl Corp ,-0.0766,4010,Banks
+1067,LKQ,LKQ Corp ,-0.2171,2550,Retailing
+1068,LL,LL Flooring Hldgs Inc ,-0.1845,2550,Retailing
+1069,LLNW,Limelight Networks ,0.5773,4510,Software & Services
+1070,LLY,Eli Lilly and Company ,0.0928,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1071,LMAT,Lemaitre Vascular ,-0.0741,3510,Health Care Equipment & Services
+1072,LMNR,Limoneira Company ,-0.0767,3020,"Food, Beverage & Tobacco"
+1073,LMT,Lockheed Martin Corp ,0.3158,2010,Capital Goods
+1074,LNC,Lincoln National Corp ,-0.0489,4030,Insurance
+1075,LNDC,Landec Cp ,-0.0757,3020,"Food, Beverage & Tobacco"
+1076,LNG,Cheniere Energy ,0.3758,1010,Energy
+1077,LNN,Lindsay Corp ,-0.0335,2010,Capital Goods
+1078,LNT,Alliant Energy Corp ,0.0312,5510,Utilities
+1079,LNTH,Lantheus Holdings ,1.0865,3510,Health Care Equipment & Services
+1080,LOB,Live Oak Bancsh ,-0.4619,4010,Banks
+1081,LOCO,El Pollo Loco ,-0.2185,2530,Consumer Services
+1082,LOPE,Grand Canyon Educati ,0.1817,2530,Consumer Services
+1083,LOW,Lowe's Companies ,-0.2213,2550,Retailing
+1084,LPG,Dorian Lpg Ltd ,0.2427,1010,Energy
+1085,LPI,Laredo Petroleum Holdings Inc ,0.394,1010,Energy
+1086,LPLA,Lpl Financial Holdings ,0.3445,4020,Diversified Financials
+1087,LPSN,Liveperson Inc ,-0.294,4510,Software & Services
+1088,LPX,Louisiana-Pacific Corp ,-0.2254,1510,Materials
+1089,LQDT,Liquidity Services ,-0.1839,2550,Retailing
+1090,LRCX,Lam Research Corp ,-0.3657,4530,Semiconductors & Semiconductor Equipment
+1091,LRN,Stride Inc ,0.0363,2530,Consumer Services
+1092,LSCC,Lattice Semicond ,-0.3592,4530,Semiconductors & Semiconductor Equipment
+1093,LSI,Life Storage ,-0.0503,6010,Real Estate
+1094,LSTR,Landstar System ,-0.1917,2030,Transportation
+1095,LSXMK,Liberty Srs XM CS C ,-0.1088,5020,
+1096,LTC,Ltc Properties ,0.0773,6010,Real Estate
+1097,LULU,Lululemon Athletica ,-0.0017,2520,Consumer Durables & Apparel
+1098,LUNA,Luna Innovations Inc ,-0.2607,4520,Technology Hardware & Equipment
+1099,LUV,Southwest Airlines Company ,0.0915,2030,Transportation
+1100,LVS,Las Vegas Sands ,-0.0181,2530,Consumer Services
+1101,LW,Lamb Weston Holdings Inc ,0.0841,3020,"Food, Beverage & Tobacco"
+1102,LXP,Lxp Industrial Trust ,-0.1492,6010,Real Estate
+1103,LYB,Lyondellbasell Industries NV ,0.1664,1510,Materials
+1104,LYV,Live Nation Entertainment ,-0.07,5020,
+1105,LZB,La-Z-Boy Inc ,-0.2503,2520,Consumer Durables & Apparel
+1106,M,Macy's Inc ,-0.0145,2550,Retailing
+1107,MA,Mastercard Inc ,-0.0042,4510,Software & Services
+1108,MAA,Mid-America Apartment Communities ,-0.1048,6010,Real Estate
+1109,MAC,Macerich Company ,-0.1759,6010,Real Estate
+1110,MAN,Manpower Inc ,-0.1013,2020,Commercial  & Professional Services
+1111,MAN,Manpower Inc ,-0.1013,2020,Commercial  & Professional Services
+1112,MANH,Manhattan Assoc ,-0.1215,4510,Software & Services
+1113,MANT,Mantech Intl Cp A ,0.1497,2020,Commercial  & Professional Services
+1114,MANT,Mantech Intl Cp A ,0.1497,2020,Commercial  & Professional Services
+1115,MAR,Marriot Int Cl A ,0.0924,2530,Consumer Services
+1116,MARA,Marathon Digital Hldgs Inc ,-0.3539,4510,Software & Services
+1117,MAS,Masco Corp ,-0.2966,2010,Capital Goods
+1118,MASI,Masimo Corp ,-0.5393,3510,Health Care Equipment & Services
+1119,MAT,Mattel Inc ,0.0292,2520,Consumer Durables & Apparel
+1120,MATW,Matthews Intl Corp ,-0.174,2020,Commercial  & Professional Services
+1121,MATW,Matthews Intl Corp ,-0.174,2020,Commercial  & Professional Services
+1122,MATX,Matson Inc ,-0.0289,2030,Transportation
+1123,MBI,MBIA Inc ,-0.1374,4030,Insurance
+1124,MBUU,Malibu Boats Inc ,-0.2404,2520,Consumer Durables & Apparel
+1125,MBWM,Mercantile Bank Corp ,-0.02,4010,Banks
+1126,MC,Moelis ,-0.2777,4020,Diversified Financials
+1127,MCD,McDonald's Corp ,-0.0655,2530,Consumer Services
+1128,MCFT,Mcbc Holdings ,-0.1779,2520,Consumer Durables & Apparel
+1129,MCHP,Microchip Technology ,-0.2509,4530,Semiconductors & Semiconductor Equipment
+1130,MCK,Mckesson Corp ,0.3004,3510,Health Care Equipment & Services
+1131,MCO,Moody's Corp ,-0.1592,4020,Diversified Financials
+1132,MCRB,Seres Therapeutics Inc ,-0.2701,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1133,MCRI,Monarch Casino ,0.1716,2530,Consumer Services
+1134,MCS,Marcus Corp ,-0.0526,5020,
+1135,MCY,Mercury General Corp ,0.0102,4030,Insurance
+1136,MD,Mednax Inc ,-0.1334,3510,Health Care Equipment & Services
+1137,MDC,M.D.C. Holdings ,-0.3478,2520,Consumer Durables & Apparel
+1138,MDGL,Madrigal Pharmaceuticals Inc ,-0.0622,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1139,MDLZ,Mondelez Intl Inc ,-0.0391,3020,"Food, Beverage & Tobacco"
+1140,MDRX,Allscripts Hlthcare ,0.2098,3510,Health Care Equipment & Services
+1141,MDT,Medtronic Inc ,0.0538,3510,Health Care Equipment & Services
+1142,MDU,Mdu Res Group Inc ,-0.119,2010,Capital Goods
+1143,MED,Medifast Inc ,-0.1211,3030,Household & Personal Products
+1144,MEDP,Medpace Holdings Inc ,-0.2736,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1145,MEI,Methode Electronics ,-0.0905,4520,Technology Hardware & Equipment
+1146,MEIP,Mei Pharma Inc ,-0.7874,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1147,MET,Metlife Inc ,0.1304,4030,Insurance
+1148,MFA,MFA Financial Inc ,-0.1782,4020,Diversified Financials
+1149,MGEE,Mge Energy Inc ,0.0043,5510,Utilities
+1150,MGI,Moneygram Intl ,0.346,4510,Software & Services
+1151,MGM,MGM Resorts International ,-0.0731,2530,Consumer Services
+1152,MGNX,Macrogenics ,-0.4636,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1153,MGPI,MGP Ingredients Inc ,0.0951,3020,"Food, Beverage & Tobacco"
+1154,MGRC,Mcgrath Rentcorp ,0.0544,2010,Capital Goods
+1155,MHK,Mohawk Industries ,-0.3209,2520,Consumer Durables & Apparel
+1156,MHO,M/I Homes ,-0.3048,2520,Consumer Durables & Apparel
+1157,MIDD,Middleby Corp ,-0.245,2010,Capital Goods
+1158,MIME,Mimecast Ltd Ord ,0.0013,4510,Software & Services
+1159,MITK,Mitek Systems Inc ,-0.2501,4510,Software & Services
+1160,MKL,Markel Corp ,0.1953,4030,Insurance
+1161,MKSI,Mks Instruments Inc ,-0.3425,4530,Semiconductors & Semiconductor Equipment
+1162,MKTX,Marketaxess Holdings ,-0.3546,4020,Diversified Financials
+1163,MLAB,Mesa Labs Inc ,-0.238,3510,Health Care Equipment & Services
+1164,MLI,Mueller Industries ,-0.1046,2010,Capital Goods
+1165,MLM,Martin Marietta Materials ,-0.1718,1510,Materials
+1166,MLR,Miller Industries ,-0.1886,2010,Capital Goods
+1167,MMC,Marsh & Mclennan Companies ,-0.0234,4030,Insurance
+1168,MMI,Marcus & Millichap ,0.0253,6010,Real Estate
+1169,MMM,3M Company ,-0.1703,2010,Capital Goods
+1170,MMS,Maximus Inc ,-0.0523,4510,Software & Services
+1171,MMSI,Merit Medical Sys ,0.105,3510,Health Care Equipment & Services
+1172,MNKD,Mannkind Corp ,-0.1579,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1173,MNRO,Monro Muffler Brak ,-0.2059,2550,Retailing
+1174,MNST,Monster Beverage Cp ,-0.14,3020,"Food, Beverage & Tobacco"
+1175,MO,Altria Group ,0.1602,3020,"Food, Beverage & Tobacco"
+1176,MOD,Modine Manufacturing Company ,-0.2052,2510,Automobiles & Components
+1177,MODN,Model N Inc ,-0.0932,4510,Software & Services
+1178,MOFG,Midwestone Fnl Gp ,-0.0096,4010,Banks
+1179,MOH,Molina Healthcare Inc ,0.0561,3510,Health Care Equipment & Services
+1180,MORN,Morningstar Inc ,-0.199,4020,Diversified Financials
+1181,MOS,Mosaic Company ,0.9356,1510,Materials
+1182,MOV,Movado Group Inc ,-0.0545,2520,Consumer Durables & Apparel
+1183,MPAA,Motorcar Parts Amer ,-0.0756,2510,Automobiles & Components
+1184,MPB,Mid Penn Bancorp Inc ,-0.1686,4010,Banks
+1185,MPC,Marathon Petroleum Corp ,0.3627,1010,Energy
+1186,MPW,Medical Properties Trust ,-0.1439,6010,Real Estate
+1187,MPWR,Monolithic Power Sys ,-0.1702,4530,Semiconductors & Semiconductor Equipment
+1188,MRC,Mrc Global Inc ,0.7515,2010,Capital Goods
+1189,MRCY,Mercury Sys Inc ,0.1121,2010,Capital Goods
+1190,MRK,Merck & Company ,0.134,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1191,MRNS,Marinus Pharma CS ,-0.3434,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1192,MRO,Marathon Oil Corp ,0.6206,1010,Energy
+1193,MRTN,Marten Transport L ,-0.0752,2030,Transportation
+1194,MRTX,Mirati Therapeutics ,-0.4414,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1195,MRVL,Marvell Technology Inc ,-0.3031,4530,Semiconductors & Semiconductor Equipment
+1196,MS,Morgan Stanley ,-0.1365,4020,Diversified Financials
+1197,MSA,Msa Safety Inc ,-0.1627,2020,Commercial  & Professional Services
+1198,MSA,Msa Safety Inc ,-0.1627,2020,Commercial  & Professional Services
+1199,MSBI,Midland Sts BNC ,0.0952,4010,Banks
+1200,MSCI,MSCI Inc ,-0.2122,4020,Diversified Financials
+1201,MSEX,Middlesex Water Company ,-0.2042,5510,Utilities
+1202,MSFT,Microsoft Corp ,-0.168,4510,Software & Services
+1203,MSI,Motorola Solutions ,-0.1417,4520,Technology Hardware & Equipment
+1204,MSM,Msc Industrial Direct Company ,0.0114,2010,Capital Goods
+1205,MSTR,Microstrategy Cl A ,-0.175,4510,Software & Services
+1206,MTB,M&T Bank Corp ,0.0389,4010,Banks
+1207,MTCH,Match Group Inc ,-0.3036,5020,
+1208,MTD,Mettler-Toledo International ,-0.2232,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1209,MTDR,Matador Resources Company ,0.5501,1010,Energy
+1210,MTG,Mgic Investment Corp ,-0.07,4010,Banks
+1211,MTH,Meritage Corp ,-0.3334,2520,Consumer Durables & Apparel
+1212,MTN,Vail Resorts ,-0.2056,2530,Consumer Services
+1213,MTOR,Meritor Inc ,0.4467,2010,Capital Goods
+1214,MTRN,Materion Corp ,-0.1046,1510,Materials
+1215,MTSI,Macom Technology S ,-0.3499,4530,Semiconductors & Semiconductor Equipment
+1216,MTW,Manitowoc Company ,-0.2813,2010,Capital Goods
+1217,MTX,Minerals Technologies Inc ,-0.1381,1510,Materials
+1218,MTZ,Mastec Inc ,-0.1358,2010,Capital Goods
+1219,MU,Micron Technology ,-0.2471,4530,Semiconductors & Semiconductor Equipment
+1220,MUR,Murphy Oil Corp ,0.6254,1010,Energy
+1221,MUSA,Murphy USA Inc ,0.1508,2550,Retailing
+1222,MVIS,Microvision ,-0.3253,4520,Technology Hardware & Equipment
+1223,MWA,Mueller Water Products ,-0.1181,2010,Capital Goods
+1224,MXL,Maxlinear Inc ,-0.4015,4530,Semiconductors & Semiconductor Equipment
+1225,MYE,Myers Industries ,0.045,1510,Materials
+1226,MYGN,Myriad Genetics Inc ,-0.1312,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1227,MYRG,MYR Group Inc ,-0.1857,2010,Capital Goods
+1228,NAT,Nordic American Tanker Shipping Ltd ,0.5976,1010,Energy
+1229,NATI,Natl Instruments Cor ,-0.1136,4520,Technology Hardware & Equipment
+1230,NAVI,Navient Cp ,-0.2158,4020,Diversified Financials
+1231,NBHC,National Bank Holdings Corp ,-0.1195,4010,Banks
+1232,NBIX,Neurocrine Bioscienc ,0.1656,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1233,NBR,Nabors Industries ,1.4071,1010,Energy
+1234,NBTB,NBT Bancorp Inc ,-0.0833,4010,Banks
+1235,NCBS,Nicolet Bnkshr ,0.0673,4010,Banks
+1236,NCLH,Norwegian Cruise Ord ,0.0434,2530,Consumer Services
+1237,NCR,NCR Corp ,0.0057,4510,Software & Services
+1238,NDAQ,Nasdaq Inc ,-0.1498,4020,Diversified Financials
+1239,NDLS,Noodles & Company ,-0.4157,2530,Consumer Services
+1240,NDSN,Nordson Corp ,-0.1588,2010,Capital Goods
+1241,NEE,Nextera Energy ,-0.113,5510,Utilities
+1242,NEM,Newmont Mining Corp ,0.3668,1510,Materials
+1243,NEO,Neogenomics Inc ,-0.6392,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1244,NEOG,Neogen Cp ,-0.338,3510,Health Care Equipment & Services
+1245,NEU,Newmarket Corp ,-0.0325,1510,Materials
+1246,NEWR,New Relic Inc ,-0.3463,4510,Software & Services
+1247,NFBK,Northfield Bncrp Del ,-0.1627,4010,Banks
+1248,NFG,National Fuel Gas Company ,0.1187,5510,Utilities
+1249,NFLX,Netflix Inc ,-0.4338,5020,
+1250,NG,Novagold Resources Inc ,0.1953,1510,Materials
+1251,NGVT,Ingevity Corp ,-0.1304,1510,Materials
+1252,NHC,National Healthcare Corp ,0.0596,3510,Health Care Equipment & Services
+1253,NHI,National Health Investors ,-0.0289,6010,Real Estate
+1254,NI,NiSource Inc ,0.1499,5510,Utilities
+1255,NJR,Newjersey Resources Corp ,0.1152,5510,Utilities
+1256,NKE,Nike Inc ,-0.1993,2520,Consumer Durables & Apparel
+1257,NKTR,Nektar Therapeutics ,-0.544,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1258,NLSN,Nielsen Holdings Plc ,0.3359,2020,Commercial  & Professional Services
+1259,NLSN,Nielsen Holdings Plc ,0.3359,2020,Commercial  & Professional Services
+1260,NLY,Annaly Capital Management Inc ,-0.1343,4020,Diversified Financials
+1261,NMIH,Nmi Holdings Inc ,-0.113,4010,Banks
+1262,NNI,Nelnet Inc ,-0.1287,4020,Diversified Financials
+1263,NNN,National Retail Properties ,-0.0331,6010,Real Estate
+1264,NOC,Northrop Grumman Corp ,0.207,2010,Capital Goods
+1265,NOG,Northern Oil and Gas ,0.4028,1010,Energy
+1266,NOV,Nov Inc ,0.5173,1010,Energy
+1267,NOVT,Novanta Inc ,-0.2706,4520,Technology Hardware & Equipment
+1268,NOW,Servicenow Inc ,-0.2184,4510,Software & Services
+1269,NP,Neenah Paper ,-0.1478,1510,Materials
+1270,NPK,National Presto Industries ,-0.0552,2010,Capital Goods
+1271,NPO,Enpro Industries ,-0.1103,2010,Capital Goods
+1272,NPTN,Neophotonics Corp ,-0.0104,4530,Semiconductors & Semiconductor Equipment
+1273,NR,Newpark Resources ,0.3639,1010,Energy
+1274,NRG,NRG Energy ,-0.0903,5510,Utilities
+1275,NRZ,New Residential Investment Corp ,-0.0047,4020,Diversified Financials
+1276,NSA,National Storage Affiliates Tru ,-0.0871,6010,Real Estate
+1277,NSC,Norfolk Southern Corp ,-0.1164,2030,Transportation
+1278,NSIT,Insight Enterpr ,-0.0556,4520,Technology Hardware & Equipment
+1279,NSP,Insperity Inc ,-0.1478,2020,Commercial  & Professional Services
+1280,NSP,Insperity Inc ,-0.1478,2020,Commercial  & Professional Services
+1281,NSSC,Napco Sec Tech Inc ,-0.2313,4520,Technology Hardware & Equipment
+1282,NSTG,Nanostring Tech ,-0.4764,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1283,NTAP,Netapp Inc ,-0.1793,4520,Technology Hardware & Equipment
+1284,NTB,Bank of Butterfield Ltd ,-0.1065,4010,Banks
+1285,NTCT,Netscout Systems ,0.0048,4520,Technology Hardware & Equipment
+1286,NTGR,Netgear Inc ,-0.228,4520,Technology Hardware & Equipment
+1287,NTLA,Intellia Thera CS ,-0.4931,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1288,NTNX,Nutanix Inc ,-0.1836,4510,Software & Services
+1289,NTRA,Natera Inc ,-0.5768,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1290,NTRS,Northern Trust Corp ,-0.0729,4020,Diversified Financials
+1291,NUE,Nucor Corp ,0.4483,1510,Materials
+1292,NUS,Nu Skin Enterprises ,0.0102,3030,Household & Personal Products
+1293,NUVA,Nuvasive Inc ,0.1385,3510,Health Care Equipment & Services
+1294,NVAX,Novavax Inc ,-0.5908,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1295,NVCR,Novocure Ltd Ord Sh ,0.122,3510,Health Care Equipment & Services
+1296,NVDA,Nvidia Corp ,-0.2772,4530,Semiconductors & Semiconductor Equipment
+1297,NVEC,Nve Corp ,-0.2782,4530,Semiconductors & Semiconductor Equipment
+1298,NVEE,Nv5 Global ,-0.0657,2010,Capital Goods
+1299,NVR,NVR Inc ,-0.2663,2520,Consumer Durables & Apparel
+1300,NVRO,Nevro Corp ,-0.091,3510,Health Care Equipment & Services
+1301,NVTA,Invitae Corp ,-0.5743,3510,Health Care Equipment & Services
+1302,NWBI,Northwest Bancshares ,-0.0749,4010,Banks
+1303,NWE,Northwestern Corp ,0.0469,5510,Utilities
+1304,NWL,Newell Rubbermaid Inc ,0.0261,2520,Consumer Durables & Apparel
+1305,NWLI,Natl Wstrn Life Gp A ,-0.0342,4030,Insurance
+1306,NWN,Northwest Natural Gas Company ,0.0226,5510,Utilities
+1307,NWPX,Northwest Pipe Company ,-0.1742,2010,Capital Goods
+1308,NWSA,News Cp Cl A ,-0.0511,5020,
+1309,NX,Quanex Building Products Corp ,-0.1739,2010,Capital Goods
+1310,NXPI,Nxp Semiconductors ,-0.2537,4530,Semiconductors & Semiconductor Equipment
+1311,NXRT,Nexpoint Residential Trust Inc ,0.0384,6010,Real Estate
+1312,NXST,Nexstar Media Group Inc ,0.1261,5020,
+1313,NYCB,New York Community Bancorp ,-0.1777,4010,Banks
+1314,NYMT,New York Mtge Trust ,-0.0591,4020,Diversified Financials
+1315,NYT,New York Times Company ,-0.0911,5020,
+1316,O,Realty Income Corp ,0.0142,6010,Real Estate
+1317,OC,Owens Corning Inc ,-0.0473,2010,Capital Goods
+1318,OCFC,Oceanfirst Financial Corp ,-0.1505,4010,Banks
+1319,OCUL,Ocular Therapeut ,-0.3716,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1320,OCX,Oncocyte Corp ,-0.4194,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1321,ODFL,Old Dominion Freight Line Inc ,-0.2613,2030,Transportation
+1322,ODP,Office Depot ,0.169,2550,Retailing
+1323,OEC,Orion Engineered Carbons S.A R ,-0.1672,1510,Materials
+1324,OFC,Corporate Office Properties ,0.0072,6010,Real Estate
+1325,OFG,OFG Bancorp ,-0.029,4010,Banks
+1326,OFIX,Orthofix Intl NV ,0.0415,3510,Health Care Equipment & Services
+1327,OFLX,Omega Flex Inc ,-0.0118,2010,Capital Goods
+1328,OGE,Oge Energy Corp ,0.0847,5510,Utilities
+1329,OGS,One Gas Inc ,0.1473,5510,Utilities
+1330,OHI,Omega Healthcare Investors ,-0.0716,6010,Real Estate
+1331,OI,O-I Glass Inc ,0.0889,1510,Materials
+1332,OII,Oceaneering International ,0.336,1010,Energy
+1333,OIS,Oil States International ,0.5111,1010,Energy
+1334,OKE,Oneok Inc ,0.2134,1010,Energy
+1335,OLED,Universal Display ,-0.1158,4530,Semiconductors & Semiconductor Equipment
+1336,OLLI,Ollies Bargain CS ,0.0666,2550,Retailing
+1337,OLN,Olin Corp ,0.012,1510,Materials
+1338,OLP,One Liberty Properties ,-0.1318,6010,Real Estate
+1339,OMC,Omnicom Group Inc ,0.074,5020,
+1340,OMCL,Omnicell Inc ,-0.3354,3510,Health Care Equipment & Services
+1341,OMER,Omeros Corp ,-0.2006,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1342,OMF,Onemain Holdings Inc ,-0.0787,4020,Diversified Financials
+1343,OMI,Owens & Minor ,0.0034,3510,Health Care Equipment & Services
+1344,ON,On Semiconductor ,-0.2158,4530,Semiconductors & Semiconductor Equipment
+1345,ONB,Old National Bncp ,-0.1551,4010,Banks
+1346,OOMA,Ooma Inc ,-0.3038,5010,Telecommunication Services
+1347,OPK,Opko Health Inc ,-0.3056,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1348,OPY,Oppenheimer Holdings ,-0.2545,4020,Diversified Financials
+1349,ORA,Ormat Technologies ,0.0707,5510,Utilities
+1350,ORC,Orchid Island Capital Inc ,-0.3178,4020,Diversified Financials
+1351,ORCL,Oracle Corp ,-0.089,4510,Software & Services
+1352,ORI,Old Republic International Corp ,-0.0232,4030,Insurance
+1353,ORLY,O'Reilly Automotive ,0.0108,2550,Retailing
+1354,ORMP,Oramed Pharma ,-0.5196,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1355,OSBC,Old Second Bancorp ,0.1183,4010,Banks
+1356,OSIS,O S I Systems Inc ,-0.1333,4520,Technology Hardware & Equipment
+1357,OSK,Oshkosh Truck Corp ,-0.1352,2010,Capital Goods
+1358,OSTK,Overstock.com Inc ,-0.3491,2550,Retailing
+1359,OSUR,Orasure Tech Inc ,-0.2244,3510,Health Care Equipment & Services
+1360,OTTR,Otter Tail Corp ,-0.1245,5510,Utilities
+1361,OUT,Outfront Media Inc ,0.0134,6010,Real Estate
+1362,OXM,Oxford Industries ,-0.0888,2520,Consumer Durables & Apparel
+1363,OXY,Occidental Petroleum Corp ,1.0469,1010,Energy
+1364,PACB,Pacific Biosciences ,-0.6315,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1365,PACW,Pacwest Bancorp ,-0.1736,4010,Banks
+1366,PAG,Penske Automotive Group ,-0.0995,2550,Retailing
+1367,PAHC,Phibro Anl Htlh A ,-0.0421,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1368,PANW,Palo Alto Networks Inc ,0.1258,4510,Software & Services
+1369,PAR,Par Technology Corp ,-0.3026,4520,Technology Hardware & Equipment
+1370,PARR,Par Petroleum Corp ,-0.1183,1010,Energy
+1371,PATK,Patrick Inds Inc ,-0.2736,2510,Automobiles & Components
+1372,PAYC,Paycom Software Inc ,-0.2308,4510,Software & Services
+1373,PAYX,Paychex Inc ,0.0014,4510,Software & Services
+1374,PB,Prosperity Bancshares ,-0.0769,4010,Banks
+1375,PBF,PBF Energy Inc ,1.1064,1010,Energy
+1376,PBH,Prestige Brand Holdings ,-0.109,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1377,PBI,Pitney Bowes Inc ,-0.276,2020,Commercial  & Professional Services
+1378,PBI,Pitney Bowes Inc ,-0.276,2020,Commercial  & Professional Services
+1379,PCAR,Paccar Inc ,-0.0516,2010,Capital Goods
+1380,PCG,Pacific Gas & Electric Company ,0.0132,5510,Utilities
+1381,PCH,Potlatch Cp ,-0.1272,6010,Real Estate
+1382,PCRX,Pacira Pharm Inc ,0.2412,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1383,PCTY,Paylocity Holdings Corp ,-0.1516,4510,Software & Services
+1384,PCYO,Pure Cycle Corp ,-0.2048,5510,Utilities
+1385,PDCE,Pdc Energy Inc ,0.5964,1010,Energy
+1386,PDCO,Patterson Companies ,0.1928,3510,Health Care Equipment & Services
+1387,PDFS,Pdf Solutions Inc ,-0.2639,4530,Semiconductors & Semiconductor Equipment
+1388,PDM,Piedmont Office Realty Trust ,-0.1034,6010,Real Estate
+1389,PEB,Pebblebrook Hotel Trust ,0.08,6010,Real Estate
+1390,PEBO,Peoples Bancorp Inc ,-0.0604,4010,Banks
+1391,PEG,Public Service Enterprise Group Inc ,0.091,5510,Utilities
+1392,PEGA,Pegasystems Inc ,-0.3337,4510,Software & Services
+1393,PEN,Penumbra Inc ,-0.3118,3510,Health Care Equipment & Services
+1394,PENN,Penn Natl Gaming Inc ,-0.2812,2530,Consumer Services
+1395,PEP,Pepsico Inc ,-0.0104,3020,"Food, Beverage & Tobacco"
+1396,PETS,Petmed Express Inc ,-0.034,2550,Retailing
+1397,PFBC,Preferred Bank LA ,-0.013,4010,Banks
+1398,PFE,Pfizer Inc ,-0.1004,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1399,PFG,Principal Financial Group Inc ,0.0224,4030,Insurance
+1400,PFGC,Performance Food Group Company ,0.0933,3010,Food & Staples Retailing
+1401,PFIS,Peoples Finl Svcs Company ,-0.0953,4010,Banks
+1402,PFS,Provident Financial Services ,-0.0838,4010,Banks
+1403,PFSI,Pennymac Financial Services IN ,-0.3163,4010,Banks
+1404,PG,Procter & Gamble Company ,-0.0306,3030,Household & Personal Products
+1405,PGC,Peapack Gladstone FI ,-0.0678,4010,Banks
+1406,PGR,Progressive Corp ,0.0922,4030,Insurance
+1407,PGRE,Paramount Group Inc ,0.2374,6010,Real Estate
+1408,PGTI,Pgt Inc ,-0.2343,2010,Capital Goods
+1409,PH,Parker-Hannifin Corp ,-0.1391,2010,Capital Goods
+1410,PHM,Pultegroup ,-0.2615,2520,Consumer Durables & Apparel
+1411,PI,Impinj Inc ,-0.4265,4530,Semiconductors & Semiconductor Equipment
+1412,PII,Polaris Industries Inc ,-0.0243,2520,Consumer Durables & Apparel
+1413,PINC,Premier Inc Cl A ,-0.1161,3510,Health Care Equipment & Services
+1414,PJT,Pjt Partners Inc Cl A ,-0.1572,4020,Diversified Financials
+1415,PK,Park Hotels & Resorts Inc ,0.0148,6010,Real Estate
+1416,PKE,Park Electrochemical Corp ,-0.0871,2010,Capital Goods
+1417,PKG,Packaging Corp of America ,0.1974,1510,Materials
+1418,PKI,Perkinelmer ,-0.1972,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1419,PLAB,Photronics Inc ,-0.1703,4530,Semiconductors & Semiconductor Equipment
+1420,PLAY,Dave & Buster's Ente ,0.1974,2530,Consumer Services
+1421,PLCE,Children's Place Inc ,-0.348,2550,Retailing
+1422,PLD,Prologis Inc ,-0.0336,6010,Real Estate
+1423,PLNT,Planet Fitness ,-0.0474,2530,Consumer Services
+1424,PLOW,Douglas Dynamics ,-0.1321,2010,Capital Goods
+1425,PLUG,Plug Power Inc ,-0.0871,2010,Capital Goods
+1426,PLUS,Eplus Inc ,0.0286,4520,Technology Hardware & Equipment
+1427,PLXS,Plexus Cp ,-0.1898,4520,Technology Hardware & Equipment
+1428,PM,Philip Morris International Inc ,0.0713,3020,"Food, Beverage & Tobacco"
+1429,PMT,Pennymac Mortgage Investment Trust ,-0.1091,4020,Diversified Financials
+1430,PNC,PNC Bank ,-0.1273,4010,Banks
+1431,PNFP,Pinnacle Finl Ptnrs ,-0.1107,4010,Banks
+1432,PNM,PNM Resources Inc ,0.0533,5510,Utilities
+1433,PNR,Pentair Ltd ,-0.2821,2010,Capital Goods
+1434,PNW,Pinnacle West Capital Corp ,0.0985,5510,Utilities
+1435,PODD,Insulet Corp ,-0.0097,3510,Health Care Equipment & Services
+1436,POOL,Pool Corp ,-0.2684,2550,Retailing
+1437,POR,Portland General Electric Company ,0.0274,5510,Utilities
+1438,POST,Post Holdings Inc ,-0.0059,3020,"Food, Beverage & Tobacco"
+1439,POWI,Power Integratn ,-0.1216,4530,Semiconductors & Semiconductor Equipment
+1440,PPBI,Pacific Premier Bncp ,-0.1431,4010,Banks
+1441,PPC,Pilgrim's Pride ,-0.0291,3020,"Food, Beverage & Tobacco"
+1442,PPG,PPG Industries ,-0.2561,1510,Materials
+1443,PPL,PPL Corp ,-0.0286,5510,Utilities
+1444,PRA,Pro-Assurance Corp ,0.0182,4030,Insurance
+1445,PRAA,Pra Group Inc ,-0.1093,4020,Diversified Financials
+1446,PRFT,Perficient Inc ,-0.164,4510,Software & Services
+1447,PRGO,Perrigo Company ,-0.0751,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1448,PRGS,Progress Software ,-0.0164,4510,Software & Services
+1449,PRI,Primerica Inc ,-0.1257,4030,Insurance
+1450,PRIM,Primoris Services Cp ,0.1393,2010,Capital Goods
+1451,PRK,Park National Corp ,-0.1302,4010,Banks
+1452,PRLB,Proto Labs Inc ,-0.0783,2010,Capital Goods
+1453,PRO,Pros Holdings ,-0.1273,4510,Software & Services
+1454,PRTA,Prothena Corp ,-0.2682,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1455,PRTS,U.S. Auto Parts Netw ,-0.3687,2550,Retailing
+1456,PRTY,Party City Holdco Inc ,-0.3142,2550,Retailing
+1457,PRU,Prudential Financial Inc ,0.0831,4030,Insurance
+1458,PSA,Public Storage ,0.0906,6010,Real Estate
+1459,PSB,Business Parks ,-0.1004,6010,Real Estate
+1460,PSMT,Pricesmart Inc ,0.1189,3010,Food & Staples Retailing
+1461,PSTG,Pure Storage Inc ,-0.0559,4520,Technology Hardware & Equipment
+1462,PSX,Phillips 66 ,0.1434,1010,Energy
+1463,PTC,Ptc Inc ,-0.1852,4510,Software & Services
+1464,PTCT,Ptc Therapeutics ,0.1172,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1465,PTEN,Patterson-Uti Energy ,1.0911,1010,Energy
+1466,PTGX,Protagonist Therapeutics Inc ,-0.4167,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1467,PTSI,P A M Transport Sv ,-0.2894,2030,Transportation
+1468,PVH,Phillips-Van Heusen Corp ,-0.2561,2520,Consumer Durables & Apparel
+1469,PWR,Quanta Services ,0.1786,2010,Capital Goods
+1470,PXD,Pioneer Natural Resources Company ,0.4006,1010,Energy
+1471,PYPL,Paypal Holdings ,-0.4575,4510,Software & Services
+1472,PZZA,Papa John's Intl ,-0.2425,2530,Consumer Services
+1473,QCOM,Qualcomm Inc ,-0.2513,4530,Semiconductors & Semiconductor Equipment
+1474,QCRH,Qcr Holdings Inc ,0.0054,4010,Banks
+1475,QDEL,Quidel Cp ,-0.1782,3510,Health Care Equipment & Services
+1476,QGEN,Qiagen N.V. ,-0.156,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1477,QLYS,Qualys Inc ,0.0715,4510,Software & Services
+1478,QNST,Quinstreet Inc ,-0.3788,5020,
+1479,QRVO,Qorvo Inc ,-0.275,4530,Semiconductors & Semiconductor Equipment
+1480,QTWO,Q2 Holdings Inc ,-0.2936,4510,Software & Services
+1481,QUOT,Quotient Technology Inc ,-0.1887,2550,Retailing
+1482,R,Ryder System ,-0.2233,2030,Transportation
+1483,RAD,Rite Aid Corp ,-0.5085,3010,Food & Staples Retailing
+1484,RARE,Ultragenyx Pharmaceu ,0.0156,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1485,RBCAA,Republic Bancorp Inc ,-0.1277,4010,Banks
+1486,RCII,Rent-A-Center Inc ,-0.4798,2550,Retailing
+1487,RCKY,Rocky Brands Inc ,0.0354,2520,Consumer Durables & Apparel
+1488,RCL,Royal Caribbean Cruises Ltd ,0.0739,2530,Consumer Services
+1489,RDN,Radian Group Inc ,0.0525,4010,Banks
+1490,RDNT,Radnet Inc ,-0.3095,3510,Health Care Equipment & Services
+1491,RDUS,Radius Health ,0.146,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1492,RE,Everest Re Group ,0.0608,4030,Insurance
+1493,REG,Regency Centers Corp ,-0.0633,6010,Real Estate
+1494,REGI,Renewable Energy ,0.4345,1010,Energy
+1495,REGN,Regeneron Pharmaceuticals ,0.1607,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1496,RES,RPC Inc ,1.7357,1010,Energy
+1497,RETA,Reata Pharma ,0.2935,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1498,REVG,Rev Group Inc ,-0.1201,2010,Capital Goods
+1499,REX,Rex American Resources Corp ,-0.0482,1010,Energy
+1500,REXR,Rexford Industrial Realty Inc ,-0.0608,6010,Real Estate
+1501,RF,Regions Financial Corp ,-0.0491,4010,Banks
+1502,RGA,Reinsurance Group of America Inc ,0.029,4030,Insurance
+1503,RGEN,Repligen Cp ,-0.4047,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1504,RGLD,Royal Gold Inc ,0.3775,1510,Materials
+1505,RGNX,Regenxbio Inc ,-0.0667,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1506,RGR,Sturm Ruger & Company ,0.0545,2520,Consumer Durables & Apparel
+1507,RH,Restoration Hardware Holdings ,-0.3758,2550,Retailing
+1508,RHI,Robert Half International Inc ,-0.0265,2020,Commercial  & Professional Services
+1509,RHI,Robert Half International Inc ,-0.0265,2020,Commercial  & Professional Services
+1510,RHP,Ryman Hospitality Properties REIT ,0.0332,6010,Real Estate
+1511,RICK,RCI Hospitality Hold ,-0.1846,2530,Consumer Services
+1512,RIGL,Rigel Pharmaceuticals ,0.1208,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1513,RILY,B. Riley Financl ,-0.3594,4020,Diversified Financials
+1514,RJF,Raymond James Financial ,0.1135,4020,Diversified Financials
+1515,RL,Ralph Lauren Corp ,-0.087,2520,Consumer Durables & Apparel
+1516,RLGY,Realogy Holdings Corp ,-0.2076,6010,Real Estate
+1517,RLI,Rli Corp ,-0.0269,4030,Insurance
+1518,RLJ,Rlj Lodging Trust ,0.0136,6010,Real Estate
+1519,RM,Regional Managment Corp ,-0.165,4020,Diversified Financials
+1520,RMAX,Re/Max Holdings Inc ,-0.1341,6010,Real Estate
+1521,RMBS,Rambus Inc ,-0.1191,4530,Semiconductors & Semiconductor Equipment
+1522,RMD,Resmed Inc ,-0.1009,3510,Health Care Equipment & Services
+1523,RMR,The Rmr Grp A ,-0.1321,6010,Real Estate
+1524,RNG,Ringcentral Inc ,-0.4309,4510,Software & Services
+1525,ROG,Rogers Corp ,-0.0012,4520,Technology Hardware & Equipment
+1526,ROIC,Retail Opp Invts Cp ,-0.0071,6010,Real Estate
+1527,ROK,Rockwell Automation Inc ,-0.2499,2010,Capital Goods
+1528,ROL,Rollins Inc ,0.0202,2020,Commercial  & Professional Services
+1529,ROL,Rollins Inc ,0.0202,2020,Commercial  & Professional Services
+1530,ROP,Roper Industries ,-0.0624,2010,Capital Goods
+1531,ROST,Ross Stores Inc ,-0.098,2550,Retailing
+1532,RPM,RPM International Inc ,-0.1446,1510,Materials
+1533,RUN,Sunrun Inc ,-0.2752,2010,Capital Goods
+1534,RUSHA,Rush Entpr Cl A ,-0.133,2010,Capital Goods
+1535,RUTH,Ruth's Hospitality ,0.0628,2530,Consumer Services
+1536,RVNC,Revance Therapeutics ,0.1397,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1537,RYI,Ryerson Holding Corp ,0.5739,1510,Materials
+1538,SABR,Sabre Corp ,0.2794,4510,Software & Services
+1539,SAFM,Sanderson Farms IN ,-0.0102,3020,"Food, Beverage & Tobacco"
+1540,SAFT,Safety Ins Group Inc ,0.0612,4030,Insurance
+1541,SAGE,Sage Therapeutic Com ,-0.1714,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1542,SAH,Sonic Automotive ,-0.1234,2550,Retailing
+1543,SAIA,Saia Inc ,-0.4074,2030,Transportation
+1544,SAIC,Science Applications International ,0.0483,2020,Commercial  & Professional Services
+1545,SAIC,Science Applications International ,0.0483,2020,Commercial  & Professional Services
+1546,SANM,Sanmina Corp ,-0.0545,4520,Technology Hardware & Equipment
+1547,SASR,Sandy Spring Bancorp ,-0.105,4010,Banks
+1548,SAVE,Spirit Airlines Inc ,0.1497,2030,Transportation
+1549,SBAC,SBA Communications ,-0.0865,6010,Real Estate
+1550,SBCF,Seacoast Banking Cp ,-0.0712,4010,Banks
+1551,SBGI,Sinclair Brdcst A ,-0.1347,5020,
+1552,SBH,Sally Beauty Holdings ,-0.1371,2550,Retailing
+1553,SBNY,Signature Bank ,-0.1779,4010,Banks
+1554,SBRA,Sabra REIT ,-0.0428,6010,Real Estate
+1555,SBSI,Southside Bancshares ,-0.0617,4010,Banks
+1556,SBUX,Starbucks Corp ,-0.3203,2530,Consumer Services
+1557,SCCO,Southern Copper Corp ,0.1795,1510,Materials
+1558,SCHL,Scholastic Cp ,-0.0068,5020,
+1559,SCHN,Schnitzer Steel A ,0.0528,1510,Materials
+1560,SCHW,The Charles Schwab Corp ,-0.0161,4020,Diversified Financials
+1561,SCI,Service Corp International ,-0.0087,2530,Consumer Services
+1562,SCL,Stepan Company ,-0.199,1510,Materials
+1563,SCS,Steelcase Inc ,-0.0222,2020,Commercial  & Professional Services
+1564,SCS,Steelcase Inc ,-0.0222,2020,Commercial  & Professional Services
+1565,SCSC,Scansource Inc ,-0.0368,4520,Technology Hardware & Equipment
+1566,SCVL,Shoe Carnival Inc ,-0.1968,2550,Retailing
+1567,SEAS,Seaworld Entertainment Inc Company ,0.1267,2530,Consumer Services
+1568,SEB,Seaboard Corp ,0.0667,3020,"Food, Beverage & Tobacco"
+1569,SEE,Sealed Air Corp ,-0.0007,1510,Materials
+1570,SEIC,Sei Investments Company ,-0.0546,4020,Diversified Financials
+1571,SELB,Selecta Biosciences ,-0.684,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1572,SEM,Select Medical Holdings Corp ,-0.1616,3510,Health Care Equipment & Services
+1573,SENEA,Seneca Foods Cp A ,0.1512,3020,"Food, Beverage & Tobacco"
+1574,SENS,Senseonics Holdings ,-0.3558,3510,Health Care Equipment & Services
+1575,SF,Stifel Financial Corp ,-0.0726,4020,Diversified Financials
+1576,SFBS,Servisfirst Bancs ,-0.0217,4010,Banks
+1577,SFL,Ship Finance International ,0.3117,1010,Energy
+1578,SFM,Sprouts Farmers Market ,0.0815,3010,Food & Staples Retailing
+1579,SFNC,Simmons First Natl ,-0.1589,4010,Banks
+1580,SFST,Southern First Bancs ,-0.2304,4010,Banks
+1581,SGEN,Seagen Inc ,-0.0316,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1582,SGMO,Sangamo Therapeutics ,-0.2987,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1583,SGMS,Scientific Games ,-0.1083,2530,Consumer Services
+1584,SGRY,Surgery Partners CS ,0.0457,3510,Health Care Equipment & Services
+1585,SHAK,Shake Shack Inc ,-0.1404,2530,Consumer Services
+1586,SHEN,Shenandoah Telecom ,-0.0678,5010,Telecommunication Services
+1587,SHO,Sunstone Hotel Investors ,0.0153,6010,Real Estate
+1588,SHOO,Steven Maddens Ltd ,-0.1214,2520,Consumer Durables & Apparel
+1589,SHW,Sherwin-Williams Company ,-0.2819,1510,Materials
+1590,SIEN,Sientra Inc ,-0.4578,3510,Health Care Equipment & Services
+1591,SIG,Signet Jewelers Ltd ,-0.1089,2550,Retailing
+1592,SIGI,Selective Ins Group ,0.047,4030,Insurance
+1593,SIRI,Sirius XM Holdings ,0.0173,5020,
+1594,SITE,Siteone Landscape Supply ,-0.3933,2010,Capital Goods
+1595,SIVB,Svb Financial Group ,-0.2524,4010,Banks
+1596,SIX,Six Flags Entertainment Corp ,-0.0284,2530,Consumer Services
+1597,SJI,South Jersey Industries ,0.3231,5510,Utilities
+1598,SJW,SJW Corp ,-0.128,5510,Utilities
+1599,SKT,Tanger Factory Outlet Centers ,-0.096,6010,Real Estate
+1600,SKX,Skechers U.S.A. ,-0.0836,2520,Consumer Durables & Apparel
+1601,SKY,Skyline Corp ,-0.3496,2520,Consumer Durables & Apparel
+1602,SKYW,Skywest Inc ,-0.2491,2030,Transportation
+1603,SLAB,Silicon Labs Inc ,-0.357,4530,Semiconductors & Semiconductor Equipment
+1604,SLB,Schlumberger N.V. ,0.4441,1010,Energy
+1605,SLCA,U.S. Silica Holdings Inc ,1.1734,1010,Energy
+1606,SLG,SL Green Realty Corp ,0.0423,6010,Real Estate
+1607,SLGN,Silgan Holdings ,0.0607,1510,Materials
+1608,SLM,SLM Corp ,-0.1454,4020,Diversified Financials
+1609,SLP,Simulations Plus Inc ,0.0767,3510,Health Care Equipment & Services
+1610,SM,Sm Energy Company ,0.4026,1010,Energy
+1611,SMBC,Southern MO Bancorp ,-0.1236,4010,Banks
+1612,SMBK,Smartfinancial Inc ,-0.087,4010,Banks
+1613,SMG,Scotts Miracle-Gro Company ,-0.2932,1510,Materials
+1614,SMP,Standard Motor Products ,-0.1955,2510,Automobiles & Components
+1615,SMTC,Semtech Corp ,-0.3047,4530,Semiconductors & Semiconductor Equipment
+1616,SNA,Snap-On Inc ,-0.0196,2010,Capital Goods
+1617,SNDX,Syndax Pharma ,-0.1713,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1618,SNPS,Synopsys Inc ,-0.2001,4510,Software & Services
+1619,SNV,Synovus Financial Corp ,-0.0495,4010,Banks
+1620,SNX,Synnex Corp ,-0.1187,4520,Technology Hardware & Equipment
+1621,SO,Southern Company ,0.108,5510,Utilities
+1622,SON,Sonoco Products Company ,0.0981,1510,Materials
+1623,SP,SP Plus Corp ,0.0606,2020,Commercial  & Professional Services
+1624,SP,SP Plus Corp ,0.0606,2020,Commercial  & Professional Services
+1625,SPG,Simon Property Group ,-0.1996,6010,Real Estate
+1626,SPGI,S&P Global Inc ,-0.1787,4020,Diversified Financials
+1627,SPLK,Splunk Inc ,0.1905,4510,Software & Services
+1628,SPNE,Seaspine Holdings ,-0.2115,3510,Health Care Equipment & Services
+1629,SPNS,Sapiens Intl Cp NV ,-0.2697,4510,Software & Services
+1630,SPPI,Spectrum Pharma Inc ,-0.2361,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1631,SPR,Spirit Aerosystems Holdings ,0.0729,2010,Capital Goods
+1632,SPSC,Sps Commerce Inc ,-0.1245,4510,Software & Services
+1633,SPTN,Spartannash Company ,0.3455,3010,Food & Staples Retailing
+1634,SPWH,Sportsman's Wareh ,-0.0941,2550,Retailing
+1635,SPWR,Sunpower Corp ,-0.0225,4530,Semiconductors & Semiconductor Equipment
+1636,SPXC,SPX Corp ,-0.2505,2010,Capital Goods
+1637,SR,Spire Inc ,0.1575,5510,Utilities
+1638,SRC,Spirit Realty Capital Inc ,-0.0452,6010,Real Estate
+1639,SRCL,Stericycle Inc ,-0.0714,2020,Commercial  & Professional Services
+1640,SRCL,Stericycle Inc ,-0.0714,2020,Commercial  & Professional Services
+1641,SRDX,Surmodics Inc ,-0.1184,3510,Health Care Equipment & Services
+1642,SRE,Sempra ,0.2946,5510,Utilities
+1643,SRG,Seritage Growth Properties ,-0.1002,6010,Real Estate
+1644,SRI,Stoneridge Inc ,-0.0096,2510,Automobiles & Components
+1645,SRNE,Sorrento Therpt ,-0.5935,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1646,SRPT,Sarepta Therapeutics ,-0.0955,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1647,SSB,Southstate Corp ,-0.0292,4010,Banks
+1648,SSD,Simpson Manufacturing Company ,-0.2431,2010,Capital Goods
+1649,SSNC,SS&C Technologies ,-0.133,4510,Software & Services
+1650,SSTK,Shutterstock Inc ,-0.265,2550,Retailing
+1651,ST,Sensata Technologies Holding N.V. ,-0.2318,2010,Capital Goods
+1652,STAA,Staar Surgical Company ,-0.3221,3510,Health Care Equipment & Services
+1653,STAG,Stag Industrial Inc ,-0.1678,6010,Real Estate
+1654,STBA,S&T Bancorp Inc ,-0.1129,4010,Banks
+1655,STC,Stewart Information Services Corp ,-0.3484,4030,Insurance
+1656,STE,Steris Corp ,0.0043,3510,Health Care Equipment & Services
+1657,STLD,Steel Dynamics Inc ,0.4229,1510,Materials
+1658,STNG,Scorpio Tankers Inc ,0.7721,1010,Energy
+1659,STOR,Store Capital Corp ,-0.1346,6010,Real Estate
+1660,STRA,Strayer Education ,0.25,2530,Consumer Services
+1661,STRL,Sterling Constructio ,0.0042,2010,Capital Goods
+1662,STT,State Street Corp ,-0.1848,4020,Diversified Financials
+1663,STWD,Starwood Property Trust ,-0.0037,4020,Diversified Financials
+1664,SUI,Sun Communities ,-0.1162,6010,Real Estate
+1665,SUM,Summit Materials Inc ,-0.2775,1510,Materials
+1666,SWK,Stanley Black & Decker Inc ,-0.2561,2010,Capital Goods
+1667,SWKS,Skyworks Solutions ,-0.2411,4530,Semiconductors & Semiconductor Equipment
+1668,SWM,Schweitzer-Mauduit International ,-0.1247,1510,Materials
+1669,SWN,Southwestern Energy Company ,0.7575,1010,Energy
+1670,SWX,Southwest Gas Corp ,0.192,5510,Utilities
+1671,SXC,Suncoke Energy Inc ,0.4492,1510,Materials
+1672,SXI,Standex International Corp ,-0.115,2010,Capital Goods
+1673,SXT,Sensient Technologies Corp ,-0.1761,1510,Materials
+1674,SYBT,Stock Yards Bancorp ,-0.1835,4010,Banks
+1675,SYF,Synchrony Financial ,-0.1873,4020,Diversified Financials
+1676,SYK,Stryker Corp ,-0.0214,3510,Health Care Equipment & Services
+1677,SYNA,Synaptics Inc ,-0.4721,4530,Semiconductors & Semiconductor Equipment
+1678,SYRS,Syros Pharmaceuticals ,-0.722,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1679,SYY,Sysco Corp ,0.0983,3010,Food & Staples Retailing
+1680,TA,Travelcenters of America Llc ,-0.247,2550,Retailing
+1681,TBBK,The Bancorp Inc ,-0.0032,4010,Banks
+1682,TBI,Trueblue Inc ,0.0202,2020,Commercial  & Professional Services
+1683,TBI,Trueblue Inc ,0.0202,2020,Commercial  & Professional Services
+1684,TBK,Triumph Bancorp ,-0.3639,4010,Banks
+1685,TBPH,Theravance Bio Ord ,-0.1014,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1686,TCBI,Texas Capital Bncsh ,-0.0767,4010,Banks
+1687,TCBK,Trico Bancshares ,-0.0992,4010,Banks
+1688,TCMD,Tactile Systems Technology Inc ,-0.0037,3510,Health Care Equipment & Services
+1689,TCS,The Container Store Group Inc ,-0.1703,2550,Retailing
+1690,TCX,Tucows Inc Cl A ,-0.2225,4510,Software & Services
+1691,TDC,Teradata Corp ,0.0756,4510,Software & Services
+1692,TDG,Transdigm Group Inc ,0.0035,2010,Capital Goods
+1693,TDOC,Teladoc Health Inc ,-0.2901,3510,Health Care Equipment & Services
+1694,TDS,Telephone and Data Systems ,0.0228,5010,Telecommunication Services
+1695,TDW,Tidewater Inc ,1.1363,1010,Energy
+1696,TDY,Teledyne Technologies Inc ,0.0992,4520,Technology Hardware & Equipment
+1697,TEN,Tenneco Automotive ,0.5973,2510,Automobiles & Components
+1698,TER,Teradyne Inc ,-0.3517,4530,Semiconductors & Semiconductor Equipment
+1699,TEX,Terex Corp ,-0.208,2010,Capital Goods
+1700,TFSL,Tfs Financial Corp ,-0.141,4010,Banks
+1701,TFX,Teleflex Inc ,0.0248,3510,Health Care Equipment & Services
+1702,TG,Tredegar Corp ,0.0508,1510,Materials
+1703,TGH,Textainer Group Holdings ,-0.0182,2010,Capital Goods
+1704,TGI,Triumph Group ,0.374,2010,Capital Goods
+1705,TGNA,Tegna Inc ,0.2091,5020,
+1706,TGT,Target Corp ,0.0249,2550,Retailing
+1707,TGTX,Tg Therapeuticscmn ,-0.5342,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1708,THC,Tenet Healthcare Corp ,0.0405,3510,Health Care Equipment & Services
+1709,THG,The Hanover Insurance Group ,0.1492,4030,Insurance
+1710,THO,Thor Industries ,-0.2292,2510,Automobiles & Components
+1711,THR,Thermon Group Holdings Inc ,-0.0626,2010,Capital Goods
+1712,THS,Treehouse Foods ,-0.168,3020,"Food, Beverage & Tobacco"
+1713,TIPT,Tiptree Fncl Cl A ,-0.1179,4030,Insurance
+1714,TITN,Titan Machinery Inc ,-0.2312,2010,Capital Goods
+1715,TJX,TJX Companies ,-0.174,2550,Retailing
+1716,TKR,Timken Company ,-0.1491,2010,Capital Goods
+1717,TLYS,Tilly's Inc ,-0.4395,2550,Retailing
+1718,TMHC,Taylor Morrison Home Corp ,-0.2326,2520,Consumer Durables & Apparel
+1719,TMO,Thermo Fisher Scientific Inc ,-0.1474,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1720,TMP,Tompkinstrustco ,-0.0794,4010,Banks
+1721,TMST,Timken Steel Corp ,0.3739,1510,Materials
+1722,TMUS,T-Mobile US ,0.1464,5010,Telecommunication Services
+1723,TNC,Tennant Company ,-0.1204,2010,Capital Goods
+1724,TNDM,Tandem Diabetes Care ,-0.2339,3510,Health Care Equipment & Services
+1725,TNET,Trinet Group Inc ,0.0078,2020,Commercial  & Professional Services
+1726,TNET,Trinet Group Inc ,0.0078,2020,Commercial  & Professional Services
+1727,TNXP,Tonix Pharm Holdings ,-0.4747,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1728,TOL,Toll Brothers Inc ,-0.3621,2520,Consumer Durables & Apparel
+1729,TOWN,Towne Bank ,-0.0823,4010,Banks
+1730,TPB,Turning Point Brands ,-0.1795,3020,"Food, Beverage & Tobacco"
+1731,TPC,Tutor Perini Corp ,-0.1665,2010,Capital Goods
+1732,TPH,Tri Pointe Homes Inc ,-0.2858,2520,Consumer Durables & Apparel
+1733,TPIC,Tpi Composites Inc ,-0.1397,2010,Capital Goods
+1734,TPX,Tempur-Pedic International Inc ,-0.3915,2520,Consumer Durables & Apparel
+1735,TR,Tootsie Roll Industries ,0.005,3020,"Food, Beverage & Tobacco"
+1736,TRC,Tejon Ranch Company ,0.0058,6010,Real Estate
+1737,TREX,Trex Company ,-0.5483,2010,Capital Goods
+1738,TRGP,Targa Resources ,0.5054,1010,Energy
+1739,TRHC,Tabula Rasa Healthcare Inc ,-0.7033,3510,Health Care Equipment & Services
+1740,TRIP,Tripadvisor Inc ,-0.0158,5020,
+1741,TRMB,Trimble Navigation ,-0.2262,4520,Technology Hardware & Equipment
+1742,TRMK,Trustmark Corp ,-0.0878,4010,Banks
+1743,TRN,Trinity Industries ,0.051,2010,Capital Goods
+1744,TRNO,Terreno Realty Corp ,-0.1327,6010,Real Estate
+1745,TRNS,Transcat Inc ,-0.1611,2010,Capital Goods
+1746,TROW,T Rowe Price Group ,-0.2933,4020,Diversified Financials
+1747,TROX,Tronox Inc ,-0.1993,1510,Materials
+1748,TRS,Trimas Corp ,-0.1538,1510,Materials
+1749,TRST,Trustco Bank Corp NY ,-0.0763,4010,Banks
+1750,TRTN,Triton International Ltd ,0.0281,2010,Capital Goods
+1751,TRU,Transunion ,-0.2099,2020,Commercial  & Professional Services
+1752,TRU,Transunion ,-0.2099,2020,Commercial  & Professional Services
+1753,TRUP,Trupanion Inc ,-0.386,4030,Insurance
+1754,TRV,The Travelers Companies Inc ,0.1778,4030,Insurance
+1755,TSC,Tristate Capital Holdings ,0.1206,4010,Banks
+1756,TSCO,Tractor Supply Company ,-0.0435,2550,Retailing
+1757,TSLA,Tesla Inc ,-0.0679,2510,Automobiles & Components
+1758,TSN,Tyson Foods ,0.0951,3020,"Food, Beverage & Tobacco"
+1759,TTC,Toro Company ,-0.1654,2010,Capital Goods
+1760,TTD,Trade Desk Inc ,-0.3062,4510,Software & Services
+1761,TTEC,Teletech Hlds ,-0.1089,4510,Software & Services
+1762,TTEK,Tetra Tech Inc ,-0.1241,2020,Commercial  & Professional Services
+1763,TTEK,Tetra Tech Inc ,-0.1241,2020,Commercial  & Professional Services
+1764,TTGT,Techtarget Inc ,-0.2248,5020,
+1765,TTI,Tetra Technologies ,0.4894,1010,Energy
+1766,TTMI,TTM Technologies ,-0.0872,4520,Technology Hardware & Equipment
+1767,TTWO,Take-Two Interactive ,-0.2237,5020,
+1768,TUP,Tupperware Corp ,0.3048,2520,Consumer Durables & Apparel
+1769,TVTY,Tivity Health ,0.2201,3510,Health Care Equipment & Services
+1770,TWI,Titan International ,0.354,2010,Capital Goods
+1771,TWLO,Twilio ,-0.4794,4510,Software & Services
+1772,TWO,Two Harbors Invt Corp ,-0.1092,4020,Diversified Financials
+1773,TWTR,Twitter Inc ,0.043,5020,
+1774,TXMD,Therapeuticsmd Inc ,-0.184,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1775,TXN,Texas Instruments ,-0.0786,4530,Semiconductors & Semiconductor Equipment
+1776,TXRH,Texas Roadhouse Inc ,-0.0833,2530,Consumer Services
+1777,TXT,Textron Inc ,-0.1108,2010,Capital Goods
+1778,TYL,Tyler Technologies ,-0.2475,4510,Software & Services
+1779,UAA,Under Armour ,-0.2421,2520,Consumer Durables & Apparel
+1780,UAL,United Airlines Holdings Inc ,0.0308,2030,Transportation
+1781,UBA,Urstadt Biddle Properties Inc ,-0.1404,6010,Real Estate
+1782,UBSI,United Bkshs Inc ,-0.0582,4010,Banks
+1783,UCBI,United Comm Banks ,-0.1363,4010,Banks
+1784,UCTT,Ultra Clean Holdings ,-0.4116,4530,Semiconductors & Semiconductor Equipment
+1785,UDR,United Dominion Realty Trust ,-0.0402,6010,Real Estate
+1786,UE,Urban Edge Properties ,0.01,6010,Real Estate
+1787,UEC,Uranium Energy ,0.9104,1010,Energy
+1788,UEIC,Universal Elect IN ,-0.2667,2520,Consumer Durables & Apparel
+1789,UFCS,United Fire Group ,0.276,4030,Insurance
+1790,UFPI,Universal Forest Prd ,-0.204,2010,Capital Goods
+1791,UFPT,U F P Tech Inc ,0.0376,3510,Health Care Equipment & Services
+1792,UGI,Ugi Corp ,-0.2217,5510,Utilities
+1793,UHS,Universal Health Services ,0.1657,3510,Health Care Equipment & Services
+1794,UHT,Universal Health Realty Income Trust ,-0.016,6010,Real Estate
+1795,UIS,Unisys Corp ,-0.0992,4510,Software & Services
+1796,ULTA,Ulta Beauty Inc ,0.008,2550,Retailing
+1797,UMBF,Ump Financial Corp ,-0.1219,4010,Banks
+1798,UMH,Umh Properties ,-0.1186,6010,Real Estate
+1799,UMPQ,Umpqua Holdings Corp ,-0.0722,4010,Banks
+1800,UNF,Unifirst Corp ,-0.1851,2020,Commercial  & Professional Services
+1801,UNF,Unifirst Corp ,-0.1851,2020,Commercial  & Professional Services
+1802,UNFI,United Nat Foods ,-0.0982,3010,Food & Staples Retailing
+1803,UNH,Unitedhealth Group Inc ,0.0651,3510,Health Care Equipment & Services
+1804,UNM,Unumprovident Corp ,0.3333,4030,Insurance
+1805,UNP,Union Pacific Corp ,-0.0227,2030,Transportation
+1806,UNVR,Univar Inc ,0.0864,2010,Capital Goods
+1807,UPLD,Upland Software Inc ,-0.1003,4510,Software & Services
+1808,UPS,United Parcel Service ,-0.1228,2030,Transportation
+1809,URBN,Urban Outfitters Inc ,-0.1124,2550,Retailing
+1810,URG,Ur Energy Inc ,0.5082,1010,Energy
+1811,URI,United Rentals ,-0.0037,2010,Capital Goods
+1812,USB,U.S. Bancorp ,-0.0616,4010,Banks
+1813,USFD,US Foods Holding ,0.0488,3010,Food & Staples Retailing
+1814,USM,United States Cellular Corp ,0.0251,5010,Telecommunication Services
+1815,USNA,Usana Health Sciences Inc ,-0.1886,3030,Household & Personal Products
+1816,USPH,U.S. Physical Therapy ,0.1183,3510,Health Care Equipment & Services
+1817,UTHR,United Therapeutic ,-0.1119,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1818,UTL,Unitil Corp ,0.1109,5510,Utilities
+1819,UTMD,Utah Medical Prod ,-0.1116,3510,Health Care Equipment & Services
+1820,UVE,Universal Insurance Holdings Inc ,-0.2624,4030,Insurance
+1821,UVSP,Univest Corp of Penn ,-0.1644,4010,Banks
+1822,UVV,Universal Corp ,0.0739,3020,"Food, Beverage & Tobacco"
+1823,V,Visa Inc ,-0.0181,4510,Software & Services
+1824,VBIV,Vbi Vaccines Inc CS ,-0.3376,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1825,VBTX,Veritex Holdings ,-0.1302,4010,Banks
+1826,VC,Visteon Corp ,-0.1493,2510,Automobiles & Components
+1827,VCEL,Vericel Corproation ,-0.0646,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1828,VCYT,Veracyte Inc ,-0.4138,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1829,VEC,Vectrus Inc ,-0.1405,2010,Capital Goods
+1830,VECO,Veeco Instrument ,-0.1626,4530,Semiconductors & Semiconductor Equipment
+1831,VEEV,Veeva Systems Inc ,-0.2506,3510,Health Care Equipment & Services
+1832,VFC,V.F. Corp ,-0.2325,2520,Consumer Durables & Apparel
+1833,VG,Vonage Holdings ,-0.0303,4510,Software & Services
+1834,VGR,Vector Group Ltd ,0.1159,3020,"Food, Beverage & Tobacco"
+1835,VIAV,Viavi Solutions ,-0.1663,4520,Technology Hardware & Equipment
+1836,VICR,Vicor Cp ,-0.5242,2010,Capital Goods
+1837,VIRT,Virtu Financial Cm A ,0.2882,4020,Diversified Financials
+1838,VKTX,Viking Thera ,-0.4,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1839,VLO,Valero Energy Corp ,0.3961,1010,Energy
+1840,VLY,Valley National Bancorp ,-0.1011,4010,Banks
+1841,VMC,Vulcan Materials Company ,-0.1581,1510,Materials
+1842,VMI,Valmont Industries ,-0.0391,2010,Capital Goods
+1843,VMW,Vmware Inc ,-0.0186,4510,Software & Services
+1844,VNDA,Vanda Pharmaceuticals ,-0.276,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1845,VNO,Vornado Realty Trust ,-0.0105,6010,Real Estate
+1846,VOYA,VOYA Financial Inc ,0.0189,4020,Diversified Financials
+1847,VPG,Vishay Precision Group ,-0.1463,4520,Technology Hardware & Equipment
+1848,VRAY,Viewray Inc ,-0.3684,3510,Health Care Equipment & Services
+1849,VREX,Varex Imaging Corp ,-0.3429,3510,Health Care Equipment & Services
+1850,VRNS,Varonis Systems Inc ,0.017,4510,Software & Services
+1851,VRNT,Verint Systems Inc ,0.0099,4510,Software & Services
+1852,VRSK,Verisk Analytics Inc ,-0.0675,2020,Commercial  & Professional Services
+1853,VRSK,Verisk Analytics Inc ,-0.0675,2020,Commercial  & Professional Services
+1854,VRSN,Verisign Inc ,-0.1514,4510,Software & Services
+1855,VRTS,Virtus Inv Partners ,-0.3167,4020,Diversified Financials
+1856,VRTV,Veritiv Corp ,0.1261,2010,Capital Goods
+1857,VRTX,Vertex Pharmaceutic ,0.3113,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1858,VSAT,Viasat Inc ,0.0406,4520,Technology Hardware & Equipment
+1859,VSEC,V S E Cp ,-0.3105,2020,Commercial  & Professional Services
+1860,VSEC,V S E Cp ,-0.3105,2020,Commercial  & Professional Services
+1861,VSH,Vishay Intertechnology ,-0.171,4520,Technology Hardware & Equipment
+1862,VSTO,Vista Outdoor Inc ,-0.2138,2520,Consumer Durables & Apparel
+1863,VTGN,Vistagen Therap. Com ,-0.1692,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1864,VTR,Ventas Inc ,0.1868,6010,Real Estate
+1865,VUZI,Vuzix Corp ,-0.3633,2520,Consumer Durables & Apparel
+1866,VVI,Viad Corp ,-0.1912,2020,Commercial  & Professional Services
+1867,VVI,Viad Corp ,-0.1912,2020,Commercial  & Professional Services
+1868,VVV,Valvoline Inc ,-0.1805,1510,Materials
+1869,VZ,Verizon Communications Inc ,0.036,5010,Telecommunication Services
+1870,W,Wayfair Inc ,-0.4303,2550,Retailing
+1871,WAB,Wabtec Corp ,-0.0319,2010,Capital Goods
+1872,WABC,Westamerica Bancorp ,0.0227,4010,Banks
+1873,WAFD,Washington Federal ,-0.0554,4010,Banks
+1874,WAL,Western Alliance Bancorp ,-0.2972,4010,Banks
+1875,WASH,Washington TR Bncorp ,-0.1346,4010,Banks
+1876,WAT,Waters Corp ,-0.2072,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1877,WBA,Walgreens Boots Alliance ,-0.1409,3010,Food & Staples Retailing
+1878,WBS,Webster Financial Corp ,-0.0963,4010,Banks
+1879,WCC,Wesco International ,-0.0638,2010,Capital Goods
+1880,WD,Walker & Dunlop ,-0.1363,4010,Banks
+1881,WDAY,Workday Inc ,-0.1776,4510,Software & Services
+1882,WDC,Western Digital Cp ,-0.2894,4520,Technology Hardware & Equipment
+1883,WDFC,W D 40 Company ,-0.2265,3030,Household & Personal Products
+1884,WEC,Wisconsin Energy Corp ,0.063,5510,Utilities
+1885,WEN,Wendys Company ,-0.1241,2530,Consumer Services
+1886,WERN,Werner Enterprise ,-0.2188,2030,Transportation
+1887,WETF,Wisdomtree Investments Inc ,-0.0016,4020,Diversified Financials
+1888,WEX,Wex Inc ,0.2356,4510,Software & Services
+1889,WFC,Wells Fargo & Company ,-0.034,4010,Banks
+1890,WGO,Winnebago Industries ,-0.2539,2510,Automobiles & Components
+1891,WHR,Whirlpool Corp ,-0.2732,2520,Consumer Durables & Apparel
+1892,WINA,Winmark Corp ,-0.1041,2550,Retailing
+1893,WING,Wingstop Inc ,-0.4102,2530,Consumer Services
+1894,WIX,Wix.com Ltd ,-0.4313,4510,Software & Services
+1895,WK,Workiva Llc ,-0.169,4510,Software & Services
+1896,WKHS,Workhorse Grp ,-0.1812,2510,Automobiles & Components
+1897,WLDN,Willdan Group Inc ,-0.2,2020,Commercial  & Professional Services
+1898,WLDN,Willdan Group Inc ,-0.2,2020,Commercial  & Professional Services
+1899,WLK,Westlake Corp ,0.2613,1510,Materials
+1900,WLL,Whiting Petroleum Corp ,0.2896,1010,Energy
+1901,WM,Waste Management ,-0.0464,2020,Commercial  & Professional Services
+1902,WM,Waste Management ,-0.0464,2020,Commercial  & Professional Services
+1903,WMB,Williams Companies ,0.3641,1010,Energy
+1904,WMK,Weis Markets ,0.2128,3010,Food & Staples Retailing
+1905,WMT,Walmart Inc ,0.0856,3010,Food & Staples Retailing
+1906,WNC,Wabash National Corp ,-0.3248,2010,Capital Goods
+1907,WOR,Worthington Industries ,-0.0192,1510,Materials
+1908,WPC,W.P. Carey & Co. Llc ,0.0134,6010,Real Estate
+1909,WRB,W.R. Berkley Corp ,0.242,4030,Insurance
+1910,WRE,Washington Real Estate Investment ,-0.0271,6010,Real Estate
+1911,WRK,Westrock Company ,0.1256,1510,Materials
+1912,WRLD,World Acceptance Cp ,-0.1919,4020,Diversified Financials
+1913,WSBC,Wesbanco Inc ,-0.0457,4010,Banks
+1914,WSBF,Waterstone Financial ,-0.1404,4010,Banks
+1915,WSFS,WSFS Financial Corp ,-0.1664,4010,Banks
+1916,WSM,Williams-Sonoma ,-0.1191,2550,Retailing
+1917,WSR,Whitestone REIT ,0.2971,6010,Real Estate
+1918,WST,West Pharmaceutical Services ,-0.1872,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1919,WTBA,West Bancorp ,-0.1761,4010,Banks
+1920,WTFC,Wintrust Financial Corp ,-0.0244,4010,Banks
+1921,WTI,W&T Offshore ,0.3622,1010,Energy
+1922,WTM,White Mountains Insurance Group ,0.0582,4030,Insurance
+1923,WTS,Watts Water Technologies ,-0.3244,2010,Capital Goods
+1924,WU,Western Union Company ,0.0622,4510,Software & Services
+1925,WWD,Woodward Inc ,0.0699,2010,Capital Goods
+1926,WWE,World Wrestling Entertainment ,0.2163,5020,
+1927,WWW,Wolverine World Wide ,-0.2322,2520,Consumer Durables & Apparel
+1928,WY,Weyerhaeuser Company ,-0.0311,6010,Real Estate
+1929,WYNN,Wynn Resorts Ltd ,-0.1302,2530,Consumer Services
+1930,X,United States Steel Corp ,0.5556,1510,Materials
+1931,XEL,XCEL Energy Inc ,0.0981,5510,Utilities
+1932,XHR,Xenia Hotels & Resorts Inc ,0.0552,6010,Real Estate
+1933,XNCR,Xencor Inc ,-0.3347,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1934,XPO,Xpo Logistics Inc ,-0.2667,2030,Transportation
+1935,XRX,Xerox Corp ,-0.1701,4520,Technology Hardware & Equipment
+1936,XYL,Xylem Inc ,-0.2984,2010,Capital Goods
+1937,YELP,Yelp Inc ,-0.0513,5020,
+1938,YORW,York Water Company ,-0.1659,5510,Utilities
+1939,YUM,Yum! Brands ,-0.1144,2530,Consumer Services
+1940,YUMC,Yum China Holdings Inc ,-0.1605,2530,Consumer Services
+1941,Z,Zillow Group Cl C ,-0.2418,6010,Real Estate
+1942,ZBH,Zimmer Biomet Holdings ,-0.0082,3510,Health Care Equipment & Services
+1943,ZBRA,Zebra Technologies ,-0.3386,4520,Technology Hardware & Equipment
+1944,ZEN,Zendesk Inc ,0.2002,4510,Software & Services
+1945,ZION,Zions Bancorp ,-0.0038,4010,Banks
+1946,ZNGA,Zynga Inc Cl A ,0.3969,5020,
+1947,ZTS,Zoetis Inc Cl A ,-0.2325,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+1948,ZUMZ,Zumiez Inc ,-0.1792,2550,Retailing
